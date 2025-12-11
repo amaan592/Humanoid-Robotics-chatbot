@@ -1,0 +1,19 @@
+{
+  "id": "simulation/isaac-perception",
+  "title": "NVIDIA Isaac Perception",
+  "description": "Overview",
+  "source": "@site/docs/simulation/isaac-perception.md",
+  "sourceDirName": "simulation",
+  "slug": "/simulation/isaac-perception",
+  "permalink": "/docs/simulation/isaac-perception",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/simulation/isaac-perception.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6,
+    "title": "NVIDIA Isaac Perception"
+  }
+}

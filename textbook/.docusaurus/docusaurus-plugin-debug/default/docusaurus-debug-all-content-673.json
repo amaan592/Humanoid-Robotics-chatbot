@@ -1,0 +1,1207 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/docs",
+          "tagsPath": "/docs/tags",
+          "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs",
+          "editUrlLocalized": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "D:\\book\\textbook\\sidebars.js",
+          "contentPath": "D:\\book\\textbook\\docs",
+          "contentPathLocalized": "D:\\book\\textbook\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "docs": [
+            {
+              "id": "embodiment/advanced-integration/advanced-integration",
+              "title": "Advanced Integration",
+              "description": "Overview",
+              "source": "@site/docs/embodiment/18-advanced-integration/advanced-integration.md",
+              "sourceDirName": "embodiment/18-advanced-integration",
+              "slug": "/embodiment/advanced-integration/advanced-integration",
+              "permalink": "/docs/embodiment/advanced-integration/advanced-integration",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/embodiment/18-advanced-integration/advanced-integration.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3,
+                "title": "Advanced Integration"
+              },
+              "sidebar": "textbookSidebar",
+              "previous": {
+                "title": "Humanoid Interaction",
+                "permalink": "/docs/embodiment/humanoid-interaction/humanoid-interaction"
+              }
+            },
+            {
+              "id": "embodiment/autonomous-control/autonomous-control",
+              "title": "Autonomous Control Systems for Humanoid Robotics",
+              "description": "Overview",
+              "source": "@site/docs/embodiment/16-autonomous-control/autonomous-control.md",
+              "sourceDirName": "embodiment/16-autonomous-control",
+              "slug": "/embodiment/autonomous-control/autonomous-control",
+              "permalink": "/docs/embodiment/autonomous-control/autonomous-control",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/embodiment/16-autonomous-control/autonomous-control.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "title": "Autonomous Control Systems for Humanoid Robotics"
+              },
+              "sidebar": "textbookSidebar",
+              "previous": {
+                "title": "Embodiment",
+                "permalink": "/docs/embodiment"
+              },
+              "next": {
+                "title": "Humanoid Interaction",
+                "permalink": "/docs/embodiment/humanoid-interaction/humanoid-interaction"
+              }
+            },
+            {
+              "id": "embodiment/humanoid-interaction/humanoid-interaction",
+              "title": "Humanoid Interaction",
+              "description": "Overview",
+              "source": "@site/docs/embodiment/17-humanoid-interaction/humanoid-interaction.md",
+              "sourceDirName": "embodiment/17-humanoid-interaction",
+              "slug": "/embodiment/humanoid-interaction/humanoid-interaction",
+              "permalink": "/docs/embodiment/humanoid-interaction/humanoid-interaction",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/embodiment/17-humanoid-interaction/humanoid-interaction.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2,
+                "title": "Humanoid Interaction"
+              },
+              "sidebar": "textbookSidebar",
+              "previous": {
+                "title": "Autonomous Control Systems for Humanoid Robotics",
+                "permalink": "/docs/embodiment/autonomous-control/autonomous-control"
+              },
+              "next": {
+                "title": "Advanced Integration",
+                "permalink": "/docs/embodiment/advanced-integration/advanced-integration"
+              }
+            },
+            {
+              "id": "foundations/editorial-review",
+              "title": "Editorial Review - Foundations",
+              "description": "Overview",
+              "source": "@site/docs/foundations/editorial-review.md",
+              "sourceDirName": "foundations",
+              "slug": "/foundations/editorial-review",
+              "permalink": "/docs/foundations/editorial-review",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/foundations/editorial-review.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 0,
+              "frontMatter": {
+                "sidebar_position": 0,
+                "title": "Editorial Review - Foundations"
+              }
+            },
+            {
+              "id": "foundations/embodied-intelligence/embodied-intelligence",
+              "title": "Embodied Intelligence",
+              "description": "Overview",
+              "source": "@site/docs/foundations/03-embodied-intelligence/embodied-intelligence.md",
+              "sourceDirName": "foundations/03-embodied-intelligence",
+              "slug": "/foundations/embodied-intelligence/embodied-intelligence",
+              "permalink": "/docs/foundations/embodied-intelligence/embodied-intelligence",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/foundations/03-embodied-intelligence/embodied-intelligence.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3,
+                "title": "Embodied Intelligence"
+              },
+              "sidebar": "textbookSidebar",
+              "previous": {
+                "title": "Physical AI Concepts",
+                "permalink": "/docs/foundations/physical-ai-concepts/physical-ai"
+              },
+              "next": {
+                "title": "Sensors",
+                "permalink": "/docs/sensors"
+              }
+            },
+            {
+              "id": "foundations/final-approval",
+              "title": "Final Approval - Foundations",
+              "description": "Overview",
+              "source": "@site/docs/foundations/final-approval.md",
+              "sourceDirName": "foundations",
+              "slug": "/foundations/final-approval",
+              "permalink": "/docs/foundations/final-approval",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/foundations/final-approval.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 0,
+              "frontMatter": {
+                "sidebar_position": 0,
+                "title": "Final Approval - Foundations"
+              }
+            },
+            {
+              "id": "foundations/introduction/intro",
+              "title": "Introduction to Physical AI",
+              "description": "Overview",
+              "source": "@site/docs/foundations/01-introduction/intro.md",
+              "sourceDirName": "foundations/01-introduction",
+              "slug": "/foundations/introduction/intro",
+              "permalink": "/docs/foundations/introduction/intro",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/foundations/01-introduction/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "title": "Introduction to Physical AI"
+              },
+              "sidebar": "textbookSidebar",
+              "previous": {
+                "title": "Foundations",
+                "permalink": "/docs/foundations"
+              },
+              "next": {
+                "title": "Physical AI Concepts",
+                "permalink": "/docs/foundations/physical-ai-concepts/physical-ai"
+              }
+            },
+            {
+              "id": "foundations/physical-ai-concepts/physical-ai",
+              "title": "Physical AI Concepts",
+              "description": "Overview",
+              "source": "@site/docs/foundations/02-physical-ai-concepts/physical-ai.md",
+              "sourceDirName": "foundations/02-physical-ai-concepts",
+              "slug": "/foundations/physical-ai-concepts/physical-ai",
+              "permalink": "/docs/foundations/physical-ai-concepts/physical-ai",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/foundations/02-physical-ai-concepts/physical-ai.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2,
+                "title": "Physical AI Concepts"
+              },
+              "sidebar": "textbookSidebar",
+              "previous": {
+                "title": "Introduction to Physical AI",
+                "permalink": "/docs/foundations/introduction/intro"
+              },
+              "next": {
+                "title": "Embodied Intelligence",
+                "permalink": "/docs/foundations/embodied-intelligence/embodied-intelligence"
+              }
+            },
+            {
+              "id": "foundations/project-completion-summary",
+              "title": "Project Completion Summary",
+              "description": "Project Overview",
+              "source": "@site/docs/foundations/project-completion-summary.md",
+              "sourceDirName": "foundations",
+              "slug": "/foundations/project-completion-summary",
+              "permalink": "/docs/foundations/project-completion-summary",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/foundations/project-completion-summary.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 10,
+              "frontMatter": {
+                "sidebar_position": 10,
+                "title": "Project Completion Summary"
+              }
+            },
+            {
+              "id": "foundations/validation-report",
+              "title": "Technical Validation Report - Foundations",
+              "description": "Overview",
+              "source": "@site/docs/foundations/validation-report.md",
+              "sourceDirName": "foundations",
+              "slug": "/foundations/validation-report",
+              "permalink": "/docs/foundations/validation-report",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/foundations/validation-report.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 0,
+              "frontMatter": {
+                "sidebar_position": 0,
+                "title": "Technical Validation Report - Foundations"
+              }
+            },
+            {
+              "id": "locomotion/kinematics-dynamics/kinematics-dynamics",
+              "title": "Kinematics and Dynamics for Humanoid Robotics",
+              "description": "Overview",
+              "source": "@site/docs/locomotion/15-kinematics-dynamics/kinematics-dynamics.md",
+              "sourceDirName": "locomotion/15-kinematics-dynamics",
+              "slug": "/locomotion/kinematics-dynamics/kinematics-dynamics",
+              "permalink": "/docs/locomotion/kinematics-dynamics/kinematics-dynamics",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/locomotion/15-kinematics-dynamics/kinematics-dynamics.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3,
+                "title": "Kinematics and Dynamics for Humanoid Robotics"
+              },
+              "sidebar": "textbookSidebar",
+              "previous": {
+                "title": "Movement Control for Humanoid Robotics",
+                "permalink": "/docs/locomotion/movement-control/movement-control"
+              },
+              "next": {
+                "title": "Embodiment",
+                "permalink": "/docs/embodiment"
+              }
+            },
+            {
+              "id": "locomotion/locomotion-systems/locomotion-systems",
+              "title": "Locomotion Systems for Humanoid Robotics",
+              "description": "Overview",
+              "source": "@site/docs/locomotion/13-locomotion-systems/locomotion-systems.md",
+              "sourceDirName": "locomotion/13-locomotion-systems",
+              "slug": "/locomotion/locomotion-systems/locomotion-systems",
+              "permalink": "/docs/locomotion/locomotion-systems/locomotion-systems",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/locomotion/13-locomotion-systems/locomotion-systems.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "title": "Locomotion Systems for Humanoid Robotics"
+              },
+              "sidebar": "textbookSidebar",
+              "previous": {
+                "title": "Locomotion",
+                "permalink": "/docs/locomotion"
+              },
+              "next": {
+                "title": "Movement Control for Humanoid Robotics",
+                "permalink": "/docs/locomotion/movement-control/movement-control"
+              }
+            },
+            {
+              "id": "locomotion/movement-control/movement-control",
+              "title": "Movement Control for Humanoid Robotics",
+              "description": "Overview",
+              "source": "@site/docs/locomotion/14-movement-control/movement-control.md",
+              "sourceDirName": "locomotion/14-movement-control",
+              "slug": "/locomotion/movement-control/movement-control",
+              "permalink": "/docs/locomotion/movement-control/movement-control",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/locomotion/14-movement-control/movement-control.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2,
+                "title": "Movement Control for Humanoid Robotics"
+              },
+              "sidebar": "textbookSidebar",
+              "previous": {
+                "title": "Locomotion Systems for Humanoid Robotics",
+                "permalink": "/docs/locomotion/locomotion-systems/locomotion-systems"
+              },
+              "next": {
+                "title": "Kinematics and Dynamics for Humanoid Robotics",
+                "permalink": "/docs/locomotion/kinematics-dynamics/kinematics-dynamics"
+              }
+            },
+            {
+              "id": "ros/nodes-topics-services/nodes-topics-services",
+              "title": "Nodes, Topics, and Services",
+              "description": "Overview",
+              "source": "@site/docs/ros/08-nodes-topics-services/nodes-topics-services.md",
+              "sourceDirName": "ros/08-nodes-topics-services",
+              "slug": "/ros/nodes-topics-services/nodes-topics-services",
+              "permalink": "/docs/ros/nodes-topics-services/nodes-topics-services",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/ros/08-nodes-topics-services/nodes-topics-services.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2,
+                "title": "Nodes, Topics, and Services"
+              },
+              "sidebar": "textbookSidebar",
+              "previous": {
+                "title": "ROS Fundamentals",
+                "permalink": "/docs/ros/ros-fundamentals/ros-fundamentals"
+              },
+              "next": {
+                "title": "ROS Ecosystem for Humanoid Robotics",
+                "permalink": "/docs/ros/ros-ecosystem/ros-ecosystem"
+              }
+            },
+            {
+              "id": "ros/ros-ecosystem/ros-ecosystem",
+              "title": "ROS Ecosystem for Humanoid Robotics",
+              "description": "Overview",
+              "source": "@site/docs/ros/09-ros-ecosystem/ros-ecosystem.md",
+              "sourceDirName": "ros/09-ros-ecosystem",
+              "slug": "/ros/ros-ecosystem/ros-ecosystem",
+              "permalink": "/docs/ros/ros-ecosystem/ros-ecosystem",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/ros/09-ros-ecosystem/ros-ecosystem.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3,
+                "title": "ROS Ecosystem for Humanoid Robotics"
+              },
+              "sidebar": "textbookSidebar",
+              "previous": {
+                "title": "Nodes, Topics, and Services",
+                "permalink": "/docs/ros/nodes-topics-services/nodes-topics-services"
+              },
+              "next": {
+                "title": "Simulation",
+                "permalink": "/docs/simulation"
+              }
+            },
+            {
+              "id": "ros/ros-fundamentals/ros-fundamentals",
+              "title": "ROS Fundamentals",
+              "description": "Overview",
+              "source": "@site/docs/ros/07-ros-fundamentals/ros-fundamentals.md",
+              "sourceDirName": "ros/07-ros-fundamentals",
+              "slug": "/ros/ros-fundamentals/ros-fundamentals",
+              "permalink": "/docs/ros/ros-fundamentals/ros-fundamentals",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/ros/07-ros-fundamentals/ros-fundamentals.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "title": "ROS Fundamentals"
+              },
+              "sidebar": "textbookSidebar",
+              "previous": {
+                "title": "ROS",
+                "permalink": "/docs/ros"
+              },
+              "next": {
+                "title": "Nodes, Topics, and Services",
+                "permalink": "/docs/ros/nodes-topics-services/nodes-topics-services"
+              }
+            },
+            {
+              "id": "sensors/perception-integration/perception-integration",
+              "title": "Perception Integration",
+              "description": "Overview",
+              "source": "@site/docs/sensors/05-perception-integration/perception-integration.md",
+              "sourceDirName": "sensors/05-perception-integration",
+              "slug": "/sensors/perception-integration/perception-integration",
+              "permalink": "/docs/sensors/perception-integration/perception-integration",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/sensors/05-perception-integration/perception-integration.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2,
+                "title": "Perception Integration"
+              },
+              "sidebar": "textbookSidebar",
+              "previous": {
+                "title": "Sensor Systems",
+                "permalink": "/docs/sensors/sensor-systems/sensor-systems"
+              },
+              "next": {
+                "title": "Sensor Fusion",
+                "permalink": "/docs/sensors/sensor-fusion/sensor-fusion"
+              }
+            },
+            {
+              "id": "sensors/sensor-fusion/sensor-fusion",
+              "title": "Sensor Fusion",
+              "description": "Overview",
+              "source": "@site/docs/sensors/06-sensor-fusion/sensor-fusion.md",
+              "sourceDirName": "sensors/06-sensor-fusion",
+              "slug": "/sensors/sensor-fusion/sensor-fusion",
+              "permalink": "/docs/sensors/sensor-fusion/sensor-fusion",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/sensors/06-sensor-fusion/sensor-fusion.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3,
+                "title": "Sensor Fusion"
+              },
+              "sidebar": "textbookSidebar",
+              "previous": {
+                "title": "Perception Integration",
+                "permalink": "/docs/sensors/perception-integration/perception-integration"
+              },
+              "next": {
+                "title": "ROS",
+                "permalink": "/docs/ros"
+              }
+            },
+            {
+              "id": "sensors/sensor-systems/sensor-systems",
+              "title": "Sensor Systems",
+              "description": "Overview",
+              "source": "@site/docs/sensors/04-sensor-systems/sensor-systems.md",
+              "sourceDirName": "sensors/04-sensor-systems",
+              "slug": "/sensors/sensor-systems/sensor-systems",
+              "permalink": "/docs/sensors/sensor-systems/sensor-systems",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/sensors/04-sensor-systems/sensor-systems.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "title": "Sensor Systems"
+              },
+              "sidebar": "textbookSidebar",
+              "previous": {
+                "title": "Sensors",
+                "permalink": "/docs/sensors"
+              },
+              "next": {
+                "title": "Perception Integration",
+                "permalink": "/docs/sensors/perception-integration/perception-integration"
+              }
+            },
+            {
+              "id": "simulation/digital-twin-validation",
+              "title": "Digital Twin Validation",
+              "description": "Overview",
+              "source": "@site/docs/simulation/digital-twin-validation.md",
+              "sourceDirName": "simulation",
+              "slug": "/simulation/digital-twin-validation",
+              "permalink": "/docs/simulation/digital-twin-validation",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/simulation/digital-twin-validation.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5,
+                "title": "Digital Twin Validation"
+              }
+            },
+            {
+              "id": "simulation/digital-twins/digital-twins",
+              "title": "Digital Twins",
+              "description": "Overview",
+              "source": "@site/docs/simulation/12-digital-twins/digital-twins.md",
+              "sourceDirName": "simulation/12-digital-twins",
+              "slug": "/simulation/digital-twins/digital-twins",
+              "permalink": "/docs/simulation/digital-twins/digital-twins",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/simulation/12-digital-twins/digital-twins.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3,
+                "title": "Digital Twins"
+              },
+              "sidebar": "textbookSidebar",
+              "previous": {
+                "title": "URDF Modeling",
+                "permalink": "/docs/simulation/urdf-modeling/urdf-modeling"
+              },
+              "next": {
+                "title": "Locomotion",
+                "permalink": "/docs/locomotion"
+              }
+            },
+            {
+              "id": "simulation/editorial-review",
+              "title": "Editorial Review for Simulation Chapters",
+              "description": "Overview",
+              "source": "@site/docs/simulation/editorial-review.md",
+              "sourceDirName": "simulation",
+              "slug": "/simulation/editorial-review",
+              "permalink": "/docs/simulation/editorial-review",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/simulation/editorial-review.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {
+                "sidebar_position": 8,
+                "title": "Editorial Review for Simulation Chapters"
+              }
+            },
+            {
+              "id": "simulation/final-approval",
+              "title": "Final Publish Approval for Simulation Chapters",
+              "description": "Overview",
+              "source": "@site/docs/simulation/final-approval.md",
+              "sourceDirName": "simulation",
+              "slug": "/simulation/final-approval",
+              "permalink": "/docs/simulation/final-approval",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/simulation/final-approval.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 9,
+              "frontMatter": {
+                "sidebar_position": 9,
+                "title": "Final Publish Approval for Simulation Chapters"
+              }
+            },
+            {
+              "id": "simulation/gazebo-basics/gazebo-basics",
+              "title": "Gazebo Simulation Basics",
+              "description": "Overview",
+              "source": "@site/docs/simulation/10-gazebo-basics/gazebo-basics.md",
+              "sourceDirName": "simulation/10-gazebo-basics",
+              "slug": "/simulation/gazebo-basics/gazebo-basics",
+              "permalink": "/docs/simulation/gazebo-basics/gazebo-basics",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/simulation/10-gazebo-basics/gazebo-basics.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "title": "Gazebo Simulation Basics"
+              },
+              "sidebar": "textbookSidebar",
+              "previous": {
+                "title": "Simulation",
+                "permalink": "/docs/simulation"
+              },
+              "next": {
+                "title": "URDF Modeling",
+                "permalink": "/docs/simulation/urdf-modeling/urdf-modeling"
+              }
+            },
+            {
+              "id": "simulation/gazebo-physics-validation",
+              "title": "Gazebo Physics Validation",
+              "description": "Overview",
+              "source": "@site/docs/simulation/gazebo-physics-validation.md",
+              "sourceDirName": "simulation",
+              "slug": "/simulation/gazebo-physics-validation",
+              "permalink": "/docs/simulation/gazebo-physics-validation",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/simulation/gazebo-physics-validation.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4,
+                "title": "Gazebo Physics Validation"
+              }
+            },
+            {
+              "id": "simulation/isaac-perception",
+              "title": "NVIDIA Isaac Perception",
+              "description": "Overview",
+              "source": "@site/docs/simulation/isaac-perception.md",
+              "sourceDirName": "simulation",
+              "slug": "/simulation/isaac-perception",
+              "permalink": "/docs/simulation/isaac-perception",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/simulation/isaac-perception.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6,
+                "title": "NVIDIA Isaac Perception"
+              }
+            },
+            {
+              "id": "simulation/simulation-accuracy-validation",
+              "title": "Simulation Accuracy Validation",
+              "description": "Overview",
+              "source": "@site/docs/simulation/simulation-accuracy-validation.md",
+              "sourceDirName": "simulation",
+              "slug": "/simulation/simulation-accuracy-validation",
+              "permalink": "/docs/simulation/simulation-accuracy-validation",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/simulation/simulation-accuracy-validation.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7,
+                "title": "Simulation Accuracy Validation"
+              }
+            },
+            {
+              "id": "simulation/textbook-validation-report",
+              "title": "Textbook Validation Report",
+              "description": "Overview",
+              "source": "@site/docs/simulation/textbook-validation-report.md",
+              "sourceDirName": "simulation",
+              "slug": "/simulation/textbook-validation-report",
+              "permalink": "/docs/simulation/textbook-validation-report",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/simulation/textbook-validation-report.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 10,
+              "frontMatter": {
+                "sidebar_position": 10,
+                "title": "Textbook Validation Report"
+              }
+            },
+            {
+              "id": "simulation/urdf-modeling/urdf-modeling",
+              "title": "URDF Modeling",
+              "description": "Overview",
+              "source": "@site/docs/simulation/11-urdf-modeling/urdf-modeling.md",
+              "sourceDirName": "simulation/11-urdf-modeling",
+              "slug": "/simulation/urdf-modeling/urdf-modeling",
+              "permalink": "/docs/simulation/urdf-modeling/urdf-modeling",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/simulation/11-urdf-modeling/urdf-modeling.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2,
+                "title": "URDF Modeling"
+              },
+              "sidebar": "textbookSidebar",
+              "previous": {
+                "title": "Gazebo Simulation Basics",
+                "permalink": "/docs/simulation/gazebo-basics/gazebo-basics"
+              },
+              "next": {
+                "title": "Digital Twins",
+                "permalink": "/docs/simulation/digital-twins/digital-twins"
+              }
+            },
+            {
+              "id": "standards/academic-tone",
+              "title": "Academic Tone and Technical Precision Standards",
+              "description": "Overview",
+              "source": "@site/docs/standards/academic-tone.md",
+              "sourceDirName": "standards",
+              "slug": "/standards/academic-tone",
+              "permalink": "/docs/standards/academic-tone",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/standards/academic-tone.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 0,
+              "frontMatter": {
+                "sidebar_position": 0,
+                "title": "Academic Tone and Technical Precision Standards"
+              },
+              "sidebar": "textbookSidebar",
+              "previous": {
+                "title": "Standards",
+                "permalink": "/docs/standards"
+              },
+              "next": {
+                "title": "Glossary of Robotics Terminology",
+                "permalink": "/docs/standards/glossary"
+              }
+            },
+            {
+              "id": "standards/assessment-templates",
+              "title": "Assessment Method Templates",
+              "description": "Overview",
+              "source": "@site/docs/standards/assessment-templates.md",
+              "sourceDirName": "standards",
+              "slug": "/standards/assessment-templates",
+              "permalink": "/docs/standards/assessment-templates",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/standards/assessment-templates.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3,
+                "title": "Assessment Method Templates"
+              },
+              "sidebar": "textbookSidebar",
+              "previous": {
+                "title": "Learning Outcome Format and Measurement Criteria",
+                "permalink": "/docs/standards/learning-outcomes"
+              },
+              "next": {
+                "title": "Section Numbering and Hierarchical Organization System",
+                "permalink": "/docs/standards/organization-system"
+              }
+            },
+            {
+              "id": "standards/chapter-template",
+              "title": "Chapter Template",
+              "description": "Overview",
+              "source": "@site/docs/standards/chapter-template.md",
+              "sourceDirName": "standards",
+              "slug": "/standards/chapter-template",
+              "permalink": "/docs/standards/chapter-template",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/standards/chapter-template.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 100,
+              "frontMatter": {
+                "sidebar_position": 100,
+                "title": "Chapter Template",
+                "draft": true
+              }
+            },
+            {
+              "id": "standards/cross-reference-system",
+              "title": "Cross-Reference System for Technical Components",
+              "description": "Overview",
+              "source": "@site/docs/standards/cross-reference-system.md",
+              "sourceDirName": "standards",
+              "slug": "/standards/cross-reference-system",
+              "permalink": "/docs/standards/cross-reference-system",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/standards/cross-reference-system.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5,
+                "title": "Cross-Reference System for Technical Components"
+              },
+              "sidebar": "textbookSidebar",
+              "previous": {
+                "title": "Section Numbering and Hierarchical Organization System",
+                "permalink": "/docs/standards/organization-system"
+              },
+              "next": {
+                "title": "Content Review and Approval Workflow",
+                "permalink": "/docs/standards/review-workflow"
+              }
+            },
+            {
+              "id": "standards/glossary",
+              "title": "Glossary of Robotics Terminology",
+              "description": "This glossary provides standardized definitions for key terms used throughout the Physical AI & Humanoid Robotics textbook.",
+              "source": "@site/docs/standards/glossary.md",
+              "sourceDirName": "standards",
+              "slug": "/standards/glossary",
+              "permalink": "/docs/standards/glossary",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/standards/glossary.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "title": "Glossary of Robotics Terminology"
+              },
+              "sidebar": "textbookSidebar",
+              "previous": {
+                "title": "Academic Tone and Technical Precision Standards",
+                "permalink": "/docs/standards/academic-tone"
+              },
+              "next": {
+                "title": "Learning Outcome Format and Measurement Criteria",
+                "permalink": "/docs/standards/learning-outcomes"
+              }
+            },
+            {
+              "id": "standards/learning-outcomes",
+              "title": "Learning Outcome Format and Measurement Criteria",
+              "description": "Overview",
+              "source": "@site/docs/standards/learning-outcomes.md",
+              "sourceDirName": "standards",
+              "slug": "/standards/learning-outcomes",
+              "permalink": "/docs/standards/learning-outcomes",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/standards/learning-outcomes.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2,
+                "title": "Learning Outcome Format and Measurement Criteria"
+              },
+              "sidebar": "textbookSidebar",
+              "previous": {
+                "title": "Glossary of Robotics Terminology",
+                "permalink": "/docs/standards/glossary"
+              },
+              "next": {
+                "title": "Assessment Method Templates",
+                "permalink": "/docs/standards/assessment-templates"
+              }
+            },
+            {
+              "id": "standards/organization-system",
+              "title": "Section Numbering and Hierarchical Organization System",
+              "description": "Overview",
+              "source": "@site/docs/standards/organization-system.md",
+              "sourceDirName": "standards",
+              "slug": "/standards/organization-system",
+              "permalink": "/docs/standards/organization-system",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/standards/organization-system.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4,
+                "title": "Section Numbering and Hierarchical Organization System"
+              },
+              "sidebar": "textbookSidebar",
+              "previous": {
+                "title": "Assessment Method Templates",
+                "permalink": "/docs/standards/assessment-templates"
+              },
+              "next": {
+                "title": "Cross-Reference System for Technical Components",
+                "permalink": "/docs/standards/cross-reference-system"
+              }
+            },
+            {
+              "id": "standards/review-workflow",
+              "title": "Content Review and Approval Workflow",
+              "description": "Overview",
+              "source": "@site/docs/standards/review-workflow.md",
+              "sourceDirName": "standards",
+              "slug": "/standards/review-workflow",
+              "permalink": "/docs/standards/review-workflow",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/standards/review-workflow.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6,
+                "title": "Content Review and Approval Workflow"
+              },
+              "sidebar": "textbookSidebar",
+              "previous": {
+                "title": "Cross-Reference System for Technical Components",
+                "permalink": "/docs/standards/cross-reference-system"
+              },
+              "next": {
+                "title": "Content Validation Framework for Technical Accuracy",
+                "permalink": "/docs/standards/validation-framework"
+              }
+            },
+            {
+              "id": "standards/validation-framework",
+              "title": "Content Validation Framework for Technical Accuracy",
+              "description": "Overview",
+              "source": "@site/docs/standards/validation-framework.md",
+              "sourceDirName": "standards",
+              "slug": "/standards/validation-framework",
+              "permalink": "/docs/standards/validation-framework",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/standards/validation-framework.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7,
+                "title": "Content Validation Framework for Technical Accuracy"
+              },
+              "sidebar": "textbookSidebar",
+              "previous": {
+                "title": "Content Review and Approval Workflow",
+                "permalink": "/docs/standards/review-workflow"
+              },
+              "next": {
+                "title": "Foundations",
+                "permalink": "/docs/foundations"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "textbookSidebar": [
+              {
+                "type": "category",
+                "label": "Standards",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "standards/academic-tone"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "standards/glossary"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "standards/learning-outcomes"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "standards/assessment-templates"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "standards/organization-system"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "standards/cross-reference-system"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "standards/review-workflow"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "standards/validation-framework"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "title": "Standards",
+                  "description": "Academic and technical standards for the textbook",
+                  "slug": "/standards",
+                  "permalink": "/docs/standards"
+                },
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Foundations",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "foundations/introduction/intro"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "foundations/physical-ai-concepts/physical-ai"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "foundations/embodied-intelligence/embodied-intelligence"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "title": "Foundations",
+                  "description": "Core concepts of Physical AI and embodied intelligence",
+                  "slug": "/foundations",
+                  "permalink": "/docs/foundations"
+                },
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Sensors",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "sensors/sensor-systems/sensor-systems"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "sensors/perception-integration/perception-integration"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "sensors/sensor-fusion/sensor-fusion"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "title": "Sensors",
+                  "description": "Sensor systems and perception for humanoid robots",
+                  "slug": "/sensors",
+                  "permalink": "/docs/sensors"
+                },
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "ROS",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "ros/ros-fundamentals/ros-fundamentals"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "ros/nodes-topics-services/nodes-topics-services"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "ros/ros-ecosystem/ros-ecosystem"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "title": "ROS",
+                  "description": "Robot Operating System fundamentals and ecosystem",
+                  "slug": "/ros",
+                  "permalink": "/docs/ros"
+                },
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Simulation",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "simulation/gazebo-basics/gazebo-basics"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "simulation/urdf-modeling/urdf-modeling"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "simulation/digital-twins/digital-twins"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "title": "Simulation",
+                  "description": "Gazebo simulation and digital twin concepts",
+                  "slug": "/simulation",
+                  "permalink": "/docs/simulation"
+                },
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Locomotion",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "locomotion/locomotion-systems/locomotion-systems"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "locomotion/movement-control/movement-control"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "locomotion/kinematics-dynamics/kinematics-dynamics"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "title": "Locomotion",
+                  "description": "Movement control and kinematics for humanoid robots",
+                  "slug": "/locomotion",
+                  "permalink": "/docs/locomotion"
+                },
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Embodiment",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "embodiment/autonomous-control/autonomous-control"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "embodiment/humanoid-interaction/humanoid-interaction"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "embodiment/advanced-integration/advanced-integration"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "title": "Embodiment",
+                  "description": "Autonomous control and advanced integration",
+                  "slug": "/embodiment",
+                  "permalink": "/docs/embodiment"
+                },
+                "collapsed": true,
+                "collapsible": true
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

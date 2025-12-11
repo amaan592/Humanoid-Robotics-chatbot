@@ -1,0 +1,19 @@
+{
+  "id": "simulation/digital-twin-validation",
+  "title": "Digital Twin Validation",
+  "description": "Overview",
+  "source": "@site/docs/simulation/digital-twin-validation.md",
+  "sourceDirName": "simulation",
+  "slug": "/simulation/digital-twin-validation",
+  "permalink": "/docs/simulation/digital-twin-validation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/simulation/digital-twin-validation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "title": "Digital Twin Validation"
+  }
+}

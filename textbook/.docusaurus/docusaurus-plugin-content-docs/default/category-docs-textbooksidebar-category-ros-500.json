@@ -1,0 +1,16 @@
+{
+  "title": "ROS",
+  "description": "Robot Operating System fundamentals and ecosystem",
+  "slug": "/ros",
+  "permalink": "/docs/ros",
+  "navigation": {
+    "previous": {
+      "title": "Sensor Fusion",
+      "permalink": "/docs/sensors/sensor-fusion/sensor-fusion"
+    },
+    "next": {
+      "title": "ROS Fundamentals",
+      "permalink": "/docs/ros/ros-fundamentals/ros-fundamentals"
+    }
+  }
+}

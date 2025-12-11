@@ -1,0 +1,28 @@
+{
+  "id": "standards/review-workflow",
+  "title": "Content Review and Approval Workflow",
+  "description": "Overview",
+  "source": "@site/docs/standards/review-workflow.md",
+  "sourceDirName": "standards",
+  "slug": "/standards/review-workflow",
+  "permalink": "/docs/standards/review-workflow",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/standards/review-workflow.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6,
+    "title": "Content Review and Approval Workflow"
+  },
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "Cross-Reference System for Technical Components",
+    "permalink": "/docs/standards/cross-reference-system"
+  },
+  "next": {
+    "title": "Content Validation Framework for Technical Accuracy",
+    "permalink": "/docs/standards/validation-framework"
+  }
+}

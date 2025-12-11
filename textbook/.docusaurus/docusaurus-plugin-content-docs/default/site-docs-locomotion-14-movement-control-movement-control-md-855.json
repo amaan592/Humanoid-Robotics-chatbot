@@ -1,0 +1,28 @@
+{
+  "id": "locomotion/movement-control/movement-control",
+  "title": "Movement Control for Humanoid Robotics",
+  "description": "Overview",
+  "source": "@site/docs/locomotion/14-movement-control/movement-control.md",
+  "sourceDirName": "locomotion/14-movement-control",
+  "slug": "/locomotion/movement-control/movement-control",
+  "permalink": "/docs/locomotion/movement-control/movement-control",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/locomotion/14-movement-control/movement-control.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Movement Control for Humanoid Robotics"
+  },
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "Locomotion Systems for Humanoid Robotics",
+    "permalink": "/docs/locomotion/locomotion-systems/locomotion-systems"
+  },
+  "next": {
+    "title": "Kinematics and Dynamics for Humanoid Robotics",
+    "permalink": "/docs/locomotion/kinematics-dynamics/kinematics-dynamics"
+  }
+}

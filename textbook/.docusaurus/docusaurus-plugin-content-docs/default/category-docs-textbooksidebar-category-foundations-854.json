@@ -1,0 +1,16 @@
+{
+  "title": "Foundations",
+  "description": "Core concepts of Physical AI and embodied intelligence",
+  "slug": "/foundations",
+  "permalink": "/docs/foundations",
+  "navigation": {
+    "previous": {
+      "title": "Content Validation Framework for Technical Accuracy",
+      "permalink": "/docs/standards/validation-framework"
+    },
+    "next": {
+      "title": "Introduction to Physical AI",
+      "permalink": "/docs/foundations/introduction/intro"
+    }
+  }
+}

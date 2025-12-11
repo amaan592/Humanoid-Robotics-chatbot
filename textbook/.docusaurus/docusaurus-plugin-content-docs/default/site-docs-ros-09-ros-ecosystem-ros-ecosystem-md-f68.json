@@ -1,0 +1,28 @@
+{
+  "id": "ros/ros-ecosystem/ros-ecosystem",
+  "title": "ROS Ecosystem for Humanoid Robotics",
+  "description": "Overview",
+  "source": "@site/docs/ros/09-ros-ecosystem/ros-ecosystem.md",
+  "sourceDirName": "ros/09-ros-ecosystem",
+  "slug": "/ros/ros-ecosystem/ros-ecosystem",
+  "permalink": "/docs/ros/ros-ecosystem/ros-ecosystem",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/ros/09-ros-ecosystem/ros-ecosystem.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "ROS Ecosystem for Humanoid Robotics"
+  },
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "Nodes, Topics, and Services",
+    "permalink": "/docs/ros/nodes-topics-services/nodes-topics-services"
+  },
+  "next": {
+    "title": "Simulation",
+    "permalink": "/docs/simulation"
+  }
+}

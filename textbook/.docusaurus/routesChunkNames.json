@@ -1,0 +1,245 @@
+{
+  "/__docusaurus/debug-a87": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-596-2f5"
+    }
+  },
+  "/__docusaurus/debug/config-a07": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-596-2f5"
+    }
+  },
+  "/__docusaurus/debug/content-701": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-596-2f5"
+    },
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-d4b": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-596-2f5"
+    }
+  },
+  "/__docusaurus/debug/metadata-a0b": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-596-2f5"
+    }
+  },
+  "/__docusaurus/debug/registry-89e": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-596-2f5"
+    }
+  },
+  "/__docusaurus/debug/routes-175": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-596-2f5"
+    }
+  },
+  "/docs-588": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---docsb-90-445"
+    }
+  },
+  "/docs-101": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "version": "version---docs-935-398"
+  },
+  "/docs-1c7": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/embodiment-b52": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-embodiment-8-fe-729"
+  },
+  "/docs/embodiment/advanced-integration/advanced-integration-182": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-embodiment-advanced-integration-advanced-integrationdb-5-a5b"
+  },
+  "/docs/embodiment/autonomous-control/autonomous-control-eac": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-embodiment-autonomous-control-autonomous-control-86-b-31b"
+  },
+  "/docs/embodiment/humanoid-interaction/humanoid-interaction-933": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-embodiment-humanoid-interaction-humanoid-interaction-094-e10"
+  },
+  "/docs/foundations-05c": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-foundationsfc-6-680"
+  },
+  "/docs/foundations/editorial-review-470": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-foundations-editorial-review-42-c-981"
+  },
+  "/docs/foundations/embodied-intelligence/embodied-intelligence-e84": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-foundations-embodied-intelligence-embodied-intelligence-573-c7d"
+  },
+  "/docs/foundations/final-approval-8fa": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-foundations-final-approvalab-0-887"
+  },
+  "/docs/foundations/introduction/intro-db1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-foundations-introduction-intro-687-b00"
+  },
+  "/docs/foundations/physical-ai-concepts/physical-ai-4ff": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-foundations-physical-ai-concepts-physical-ai-645-d03"
+  },
+  "/docs/foundations/project-completion-summary-806": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-foundations-project-completion-summary-8-fe-aa0"
+  },
+  "/docs/foundations/validation-report-957": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-foundations-validation-report-119-793"
+  },
+  "/docs/locomotion-39c": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-locomotiond-79-62e"
+  },
+  "/docs/locomotion/kinematics-dynamics/kinematics-dynamics-580": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-locomotion-kinematics-dynamics-kinematics-dynamics-2-bb-9f1"
+  },
+  "/docs/locomotion/locomotion-systems/locomotion-systems-edd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-locomotion-locomotion-systems-locomotion-systems-28-f-f2f"
+  },
+  "/docs/locomotion/movement-control/movement-control-e88": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-locomotion-movement-control-movement-control-855-696"
+  },
+  "/docs/ros-72c": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-ros-276-edf"
+  },
+  "/docs/ros/nodes-topics-services/nodes-topics-services-6db": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-ros-nodes-topics-services-nodes-topics-services-7-f-5-98f"
+  },
+  "/docs/ros/ros-ecosystem/ros-ecosystem-6ad": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-ros-ros-ecosystem-ros-ecosystemf-68-ef5"
+  },
+  "/docs/ros/ros-fundamentals/ros-fundamentals-990": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-ros-ros-fundamentals-ros-fundamentals-5-c-0-a70"
+  },
+  "/docs/sensors-f83": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-sensors-404-b78"
+  },
+  "/docs/sensors/perception-integration/perception-integration-335": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-sensors-perception-integration-perception-integration-6-c-2-17b"
+  },
+  "/docs/sensors/sensor-fusion/sensor-fusion-861": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-sensors-sensor-fusion-sensor-fusion-892-6f9"
+  },
+  "/docs/sensors/sensor-systems/sensor-systems-9f0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-sensors-sensor-systems-sensor-systems-4-df-7ea"
+  },
+  "/docs/simulation-0cf": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-simulation-2-e-1-eb2"
+  },
+  "/docs/simulation/digital-twin-validation-a45": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-simulation-digital-twin-validationc-43-357"
+  },
+  "/docs/simulation/digital-twins/digital-twins-9d2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-simulation-digital-twins-digital-twins-850-e0c"
+  },
+  "/docs/simulation/editorial-review-708": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-simulation-editorial-review-959-5e8"
+  },
+  "/docs/simulation/final-approval-ad4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-simulation-final-approvalbf-1-ecf"
+  },
+  "/docs/simulation/gazebo-basics/gazebo-basics-d98": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-simulation-gazebo-basics-gazebo-basicsa-51-de9"
+  },
+  "/docs/simulation/gazebo-physics-validation-83f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-simulation-gazebo-physics-validation-6-a-9-305"
+  },
+  "/docs/simulation/isaac-perception-289": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-simulation-isaac-perceptionf-9-f-c42"
+  },
+  "/docs/simulation/simulation-accuracy-validation-f5f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-simulation-simulation-accuracy-validatione-2-a-478"
+  },
+  "/docs/simulation/textbook-validation-report-cfd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-simulation-textbook-validation-report-401-5e7"
+  },
+  "/docs/simulation/urdf-modeling/urdf-modeling-e1d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-simulation-urdf-modeling-urdf-modelinga-0-d-ce4"
+  },
+  "/docs/standards-868": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-standards-021-c58"
+  },
+  "/docs/standards/academic-tone-c59": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-standards-academic-tonea-1-b-629"
+  },
+  "/docs/standards/assessment-templates-611": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-standards-assessment-templates-449-450"
+  },
+  "/docs/standards/chapter-template-b42": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-standards-chapter-templatef-95-1d4"
+  },
+  "/docs/standards/cross-reference-system-cfa": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-standards-cross-reference-system-590-3e8"
+  },
+  "/docs/standards/glossary-dcb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-standards-glossary-2-f-9-468"
+  },
+  "/docs/standards/learning-outcomes-26c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-standards-learning-outcomesd-59-801"
+  },
+  "/docs/standards/organization-system-57c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-standards-organization-systeme-8-e-672"
+  },
+  "/docs/standards/review-workflow-f0b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-standards-review-workflowda-6-669"
+  },
+  "/docs/standards/validation-framework-04e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-standards-validation-frameworkfe-2-d92"
+  },
+  "/-11f": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---f-5-f-fdc"
+    },
+    "config": "config---5-e-9-4f3"
+  }
+}

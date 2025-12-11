@@ -1,0 +1,28 @@
+{
+  "id": "sensors/sensor-systems/sensor-systems",
+  "title": "Sensor Systems",
+  "description": "Overview",
+  "source": "@site/docs/sensors/04-sensor-systems/sensor-systems.md",
+  "sourceDirName": "sensors/04-sensor-systems",
+  "slug": "/sensors/sensor-systems/sensor-systems",
+  "permalink": "/docs/sensors/sensor-systems/sensor-systems",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/sensors/04-sensor-systems/sensor-systems.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Sensor Systems"
+  },
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "Sensors",
+    "permalink": "/docs/sensors"
+  },
+  "next": {
+    "title": "Perception Integration",
+    "permalink": "/docs/sensors/perception-integration/perception-integration"
+  }
+}

@@ -1,0 +1,477 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "textbookSidebar": [
+      {
+        "type": "category",
+        "label": "Standards",
+        "items": [
+          {
+            "type": "link",
+            "label": "Academic Tone and Technical Precision Standards",
+            "href": "/docs/standards/academic-tone",
+            "docId": "standards/academic-tone",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Glossary of Robotics Terminology",
+            "href": "/docs/standards/glossary",
+            "docId": "standards/glossary",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Learning Outcome Format and Measurement Criteria",
+            "href": "/docs/standards/learning-outcomes",
+            "docId": "standards/learning-outcomes",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Assessment Method Templates",
+            "href": "/docs/standards/assessment-templates",
+            "docId": "standards/assessment-templates",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Section Numbering and Hierarchical Organization System",
+            "href": "/docs/standards/organization-system",
+            "docId": "standards/organization-system",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Cross-Reference System for Technical Components",
+            "href": "/docs/standards/cross-reference-system",
+            "docId": "standards/cross-reference-system",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Content Review and Approval Workflow",
+            "href": "/docs/standards/review-workflow",
+            "docId": "standards/review-workflow",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Content Validation Framework for Technical Accuracy",
+            "href": "/docs/standards/validation-framework",
+            "docId": "standards/validation-framework",
+            "unlisted": false
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true,
+        "href": "/docs/standards"
+      },
+      {
+        "type": "category",
+        "label": "Foundations",
+        "items": [
+          {
+            "type": "link",
+            "label": "Introduction to Physical AI",
+            "href": "/docs/foundations/introduction/intro",
+            "docId": "foundations/introduction/intro",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Physical AI Concepts",
+            "href": "/docs/foundations/physical-ai-concepts/physical-ai",
+            "docId": "foundations/physical-ai-concepts/physical-ai",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Embodied Intelligence",
+            "href": "/docs/foundations/embodied-intelligence/embodied-intelligence",
+            "docId": "foundations/embodied-intelligence/embodied-intelligence",
+            "unlisted": false
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true,
+        "href": "/docs/foundations"
+      },
+      {
+        "type": "category",
+        "label": "Sensors",
+        "items": [
+          {
+            "type": "link",
+            "label": "Sensor Systems",
+            "href": "/docs/sensors/sensor-systems/sensor-systems",
+            "docId": "sensors/sensor-systems/sensor-systems",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Perception Integration",
+            "href": "/docs/sensors/perception-integration/perception-integration",
+            "docId": "sensors/perception-integration/perception-integration",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Sensor Fusion",
+            "href": "/docs/sensors/sensor-fusion/sensor-fusion",
+            "docId": "sensors/sensor-fusion/sensor-fusion",
+            "unlisted": false
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true,
+        "href": "/docs/sensors"
+      },
+      {
+        "type": "category",
+        "label": "ROS",
+        "items": [
+          {
+            "type": "link",
+            "label": "ROS Fundamentals",
+            "href": "/docs/ros/ros-fundamentals/ros-fundamentals",
+            "docId": "ros/ros-fundamentals/ros-fundamentals",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Nodes, Topics, and Services",
+            "href": "/docs/ros/nodes-topics-services/nodes-topics-services",
+            "docId": "ros/nodes-topics-services/nodes-topics-services",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "ROS Ecosystem for Humanoid Robotics",
+            "href": "/docs/ros/ros-ecosystem/ros-ecosystem",
+            "docId": "ros/ros-ecosystem/ros-ecosystem",
+            "unlisted": false
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true,
+        "href": "/docs/ros"
+      },
+      {
+        "type": "category",
+        "label": "Simulation",
+        "items": [
+          {
+            "type": "link",
+            "label": "Gazebo Simulation Basics",
+            "href": "/docs/simulation/gazebo-basics/gazebo-basics",
+            "docId": "simulation/gazebo-basics/gazebo-basics",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "URDF Modeling",
+            "href": "/docs/simulation/urdf-modeling/urdf-modeling",
+            "docId": "simulation/urdf-modeling/urdf-modeling",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Digital Twins",
+            "href": "/docs/simulation/digital-twins/digital-twins",
+            "docId": "simulation/digital-twins/digital-twins",
+            "unlisted": false
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true,
+        "href": "/docs/simulation"
+      },
+      {
+        "type": "category",
+        "label": "Locomotion",
+        "items": [
+          {
+            "type": "link",
+            "label": "Locomotion Systems for Humanoid Robotics",
+            "href": "/docs/locomotion/locomotion-systems/locomotion-systems",
+            "docId": "locomotion/locomotion-systems/locomotion-systems",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Movement Control for Humanoid Robotics",
+            "href": "/docs/locomotion/movement-control/movement-control",
+            "docId": "locomotion/movement-control/movement-control",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Kinematics and Dynamics for Humanoid Robotics",
+            "href": "/docs/locomotion/kinematics-dynamics/kinematics-dynamics",
+            "docId": "locomotion/kinematics-dynamics/kinematics-dynamics",
+            "unlisted": false
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true,
+        "href": "/docs/locomotion"
+      },
+      {
+        "type": "category",
+        "label": "Embodiment",
+        "items": [
+          {
+            "type": "link",
+            "label": "Autonomous Control Systems for Humanoid Robotics",
+            "href": "/docs/embodiment/autonomous-control/autonomous-control",
+            "docId": "embodiment/autonomous-control/autonomous-control",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Humanoid Interaction",
+            "href": "/docs/embodiment/humanoid-interaction/humanoid-interaction",
+            "docId": "embodiment/humanoid-interaction/humanoid-interaction",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Advanced Integration",
+            "href": "/docs/embodiment/advanced-integration/advanced-integration",
+            "docId": "embodiment/advanced-integration/advanced-integration",
+            "unlisted": false
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true,
+        "href": "/docs/embodiment"
+      }
+    ]
+  },
+  "docs": {
+    "embodiment/advanced-integration/advanced-integration": {
+      "id": "embodiment/advanced-integration/advanced-integration",
+      "title": "Advanced Integration",
+      "description": "Overview",
+      "sidebar": "textbookSidebar"
+    },
+    "embodiment/autonomous-control/autonomous-control": {
+      "id": "embodiment/autonomous-control/autonomous-control",
+      "title": "Autonomous Control Systems for Humanoid Robotics",
+      "description": "Overview",
+      "sidebar": "textbookSidebar"
+    },
+    "embodiment/humanoid-interaction/humanoid-interaction": {
+      "id": "embodiment/humanoid-interaction/humanoid-interaction",
+      "title": "Humanoid Interaction",
+      "description": "Overview",
+      "sidebar": "textbookSidebar"
+    },
+    "foundations/editorial-review": {
+      "id": "foundations/editorial-review",
+      "title": "Editorial Review - Foundations",
+      "description": "Overview"
+    },
+    "foundations/embodied-intelligence/embodied-intelligence": {
+      "id": "foundations/embodied-intelligence/embodied-intelligence",
+      "title": "Embodied Intelligence",
+      "description": "Overview",
+      "sidebar": "textbookSidebar"
+    },
+    "foundations/final-approval": {
+      "id": "foundations/final-approval",
+      "title": "Final Approval - Foundations",
+      "description": "Overview"
+    },
+    "foundations/introduction/intro": {
+      "id": "foundations/introduction/intro",
+      "title": "Introduction to Physical AI",
+      "description": "Overview",
+      "sidebar": "textbookSidebar"
+    },
+    "foundations/physical-ai-concepts/physical-ai": {
+      "id": "foundations/physical-ai-concepts/physical-ai",
+      "title": "Physical AI Concepts",
+      "description": "Overview",
+      "sidebar": "textbookSidebar"
+    },
+    "foundations/project-completion-summary": {
+      "id": "foundations/project-completion-summary",
+      "title": "Project Completion Summary",
+      "description": "Project Overview"
+    },
+    "foundations/validation-report": {
+      "id": "foundations/validation-report",
+      "title": "Technical Validation Report - Foundations",
+      "description": "Overview"
+    },
+    "locomotion/kinematics-dynamics/kinematics-dynamics": {
+      "id": "locomotion/kinematics-dynamics/kinematics-dynamics",
+      "title": "Kinematics and Dynamics for Humanoid Robotics",
+      "description": "Overview",
+      "sidebar": "textbookSidebar"
+    },
+    "locomotion/locomotion-systems/locomotion-systems": {
+      "id": "locomotion/locomotion-systems/locomotion-systems",
+      "title": "Locomotion Systems for Humanoid Robotics",
+      "description": "Overview",
+      "sidebar": "textbookSidebar"
+    },
+    "locomotion/movement-control/movement-control": {
+      "id": "locomotion/movement-control/movement-control",
+      "title": "Movement Control for Humanoid Robotics",
+      "description": "Overview",
+      "sidebar": "textbookSidebar"
+    },
+    "ros/nodes-topics-services/nodes-topics-services": {
+      "id": "ros/nodes-topics-services/nodes-topics-services",
+      "title": "Nodes, Topics, and Services",
+      "description": "Overview",
+      "sidebar": "textbookSidebar"
+    },
+    "ros/ros-ecosystem/ros-ecosystem": {
+      "id": "ros/ros-ecosystem/ros-ecosystem",
+      "title": "ROS Ecosystem for Humanoid Robotics",
+      "description": "Overview",
+      "sidebar": "textbookSidebar"
+    },
+    "ros/ros-fundamentals/ros-fundamentals": {
+      "id": "ros/ros-fundamentals/ros-fundamentals",
+      "title": "ROS Fundamentals",
+      "description": "Overview",
+      "sidebar": "textbookSidebar"
+    },
+    "sensors/perception-integration/perception-integration": {
+      "id": "sensors/perception-integration/perception-integration",
+      "title": "Perception Integration",
+      "description": "Overview",
+      "sidebar": "textbookSidebar"
+    },
+    "sensors/sensor-fusion/sensor-fusion": {
+      "id": "sensors/sensor-fusion/sensor-fusion",
+      "title": "Sensor Fusion",
+      "description": "Overview",
+      "sidebar": "textbookSidebar"
+    },
+    "sensors/sensor-systems/sensor-systems": {
+      "id": "sensors/sensor-systems/sensor-systems",
+      "title": "Sensor Systems",
+      "description": "Overview",
+      "sidebar": "textbookSidebar"
+    },
+    "simulation/digital-twin-validation": {
+      "id": "simulation/digital-twin-validation",
+      "title": "Digital Twin Validation",
+      "description": "Overview"
+    },
+    "simulation/digital-twins/digital-twins": {
+      "id": "simulation/digital-twins/digital-twins",
+      "title": "Digital Twins",
+      "description": "Overview",
+      "sidebar": "textbookSidebar"
+    },
+    "simulation/editorial-review": {
+      "id": "simulation/editorial-review",
+      "title": "Editorial Review for Simulation Chapters",
+      "description": "Overview"
+    },
+    "simulation/final-approval": {
+      "id": "simulation/final-approval",
+      "title": "Final Publish Approval for Simulation Chapters",
+      "description": "Overview"
+    },
+    "simulation/gazebo-basics/gazebo-basics": {
+      "id": "simulation/gazebo-basics/gazebo-basics",
+      "title": "Gazebo Simulation Basics",
+      "description": "Overview",
+      "sidebar": "textbookSidebar"
+    },
+    "simulation/gazebo-physics-validation": {
+      "id": "simulation/gazebo-physics-validation",
+      "title": "Gazebo Physics Validation",
+      "description": "Overview"
+    },
+    "simulation/isaac-perception": {
+      "id": "simulation/isaac-perception",
+      "title": "NVIDIA Isaac Perception",
+      "description": "Overview"
+    },
+    "simulation/simulation-accuracy-validation": {
+      "id": "simulation/simulation-accuracy-validation",
+      "title": "Simulation Accuracy Validation",
+      "description": "Overview"
+    },
+    "simulation/textbook-validation-report": {
+      "id": "simulation/textbook-validation-report",
+      "title": "Textbook Validation Report",
+      "description": "Overview"
+    },
+    "simulation/urdf-modeling/urdf-modeling": {
+      "id": "simulation/urdf-modeling/urdf-modeling",
+      "title": "URDF Modeling",
+      "description": "Overview",
+      "sidebar": "textbookSidebar"
+    },
+    "standards/academic-tone": {
+      "id": "standards/academic-tone",
+      "title": "Academic Tone and Technical Precision Standards",
+      "description": "Overview",
+      "sidebar": "textbookSidebar"
+    },
+    "standards/assessment-templates": {
+      "id": "standards/assessment-templates",
+      "title": "Assessment Method Templates",
+      "description": "Overview",
+      "sidebar": "textbookSidebar"
+    },
+    "standards/chapter-template": {
+      "id": "standards/chapter-template",
+      "title": "Chapter Template",
+      "description": "Overview"
+    },
+    "standards/cross-reference-system": {
+      "id": "standards/cross-reference-system",
+      "title": "Cross-Reference System for Technical Components",
+      "description": "Overview",
+      "sidebar": "textbookSidebar"
+    },
+    "standards/glossary": {
+      "id": "standards/glossary",
+      "title": "Glossary of Robotics Terminology",
+      "description": "This glossary provides standardized definitions for key terms used throughout the Physical AI & Humanoid Robotics textbook.",
+      "sidebar": "textbookSidebar"
+    },
+    "standards/learning-outcomes": {
+      "id": "standards/learning-outcomes",
+      "title": "Learning Outcome Format and Measurement Criteria",
+      "description": "Overview",
+      "sidebar": "textbookSidebar"
+    },
+    "standards/organization-system": {
+      "id": "standards/organization-system",
+      "title": "Section Numbering and Hierarchical Organization System",
+      "description": "Overview",
+      "sidebar": "textbookSidebar"
+    },
+    "standards/review-workflow": {
+      "id": "standards/review-workflow",
+      "title": "Content Review and Approval Workflow",
+      "description": "Overview",
+      "sidebar": "textbookSidebar"
+    },
+    "standards/validation-framework": {
+      "id": "standards/validation-framework",
+      "title": "Content Validation Framework for Technical Accuracy",
+      "description": "Overview",
+      "sidebar": "textbookSidebar"
+    }
+  }
+}

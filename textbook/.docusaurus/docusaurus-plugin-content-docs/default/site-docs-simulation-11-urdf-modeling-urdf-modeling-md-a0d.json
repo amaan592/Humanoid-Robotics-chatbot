@@ -1,0 +1,28 @@
+{
+  "id": "simulation/urdf-modeling/urdf-modeling",
+  "title": "URDF Modeling",
+  "description": "Overview",
+  "source": "@site/docs/simulation/11-urdf-modeling/urdf-modeling.md",
+  "sourceDirName": "simulation/11-urdf-modeling",
+  "slug": "/simulation/urdf-modeling/urdf-modeling",
+  "permalink": "/docs/simulation/urdf-modeling/urdf-modeling",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/simulation/11-urdf-modeling/urdf-modeling.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "URDF Modeling"
+  },
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "Gazebo Simulation Basics",
+    "permalink": "/docs/simulation/gazebo-basics/gazebo-basics"
+  },
+  "next": {
+    "title": "Digital Twins",
+    "permalink": "/docs/simulation/digital-twins/digital-twins"
+  }
+}

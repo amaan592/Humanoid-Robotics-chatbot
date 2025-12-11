@@ -1,0 +1,19 @@
+{
+  "id": "simulation/textbook-validation-report",
+  "title": "Textbook Validation Report",
+  "description": "Overview",
+  "source": "@site/docs/simulation/textbook-validation-report.md",
+  "sourceDirName": "simulation",
+  "slug": "/simulation/textbook-validation-report",
+  "permalink": "/docs/simulation/textbook-validation-report",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/simulation/textbook-validation-report.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10,
+    "title": "Textbook Validation Report"
+  }
+}

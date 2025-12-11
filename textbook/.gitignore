@@ -1,0 +1,35 @@
+# Dependencies
+node_modules/
+
+# Docusaurus build outputs
+.build/
+dist/
+out/
+
+# Docusaurus generated files
+.temp/
+.cache/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env*
+!.env.example
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Docusaurus specific
+docusaurus.config.js.bak

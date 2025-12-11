@@ -1,0 +1,16 @@
+{
+  "title": "Sensors",
+  "description": "Sensor systems and perception for humanoid robots",
+  "slug": "/sensors",
+  "permalink": "/docs/sensors",
+  "navigation": {
+    "previous": {
+      "title": "Embodied Intelligence",
+      "permalink": "/docs/foundations/embodied-intelligence/embodied-intelligence"
+    },
+    "next": {
+      "title": "Sensor Systems",
+      "permalink": "/docs/sensors/sensor-systems/sensor-systems"
+    }
+  }
+}

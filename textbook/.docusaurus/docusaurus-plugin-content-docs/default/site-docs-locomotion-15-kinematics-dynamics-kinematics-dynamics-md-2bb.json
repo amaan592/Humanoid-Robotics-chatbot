@@ -1,0 +1,28 @@
+{
+  "id": "locomotion/kinematics-dynamics/kinematics-dynamics",
+  "title": "Kinematics and Dynamics for Humanoid Robotics",
+  "description": "Overview",
+  "source": "@site/docs/locomotion/15-kinematics-dynamics/kinematics-dynamics.md",
+  "sourceDirName": "locomotion/15-kinematics-dynamics",
+  "slug": "/locomotion/kinematics-dynamics/kinematics-dynamics",
+  "permalink": "/docs/locomotion/kinematics-dynamics/kinematics-dynamics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/locomotion/15-kinematics-dynamics/kinematics-dynamics.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Kinematics and Dynamics for Humanoid Robotics"
+  },
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "Movement Control for Humanoid Robotics",
+    "permalink": "/docs/locomotion/movement-control/movement-control"
+  },
+  "next": {
+    "title": "Embodiment",
+    "permalink": "/docs/embodiment"
+  }
+}

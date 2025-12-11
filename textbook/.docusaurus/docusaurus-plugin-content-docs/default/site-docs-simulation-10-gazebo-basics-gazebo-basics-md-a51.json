@@ -1,0 +1,28 @@
+{
+  "id": "simulation/gazebo-basics/gazebo-basics",
+  "title": "Gazebo Simulation Basics",
+  "description": "Overview",
+  "source": "@site/docs/simulation/10-gazebo-basics/gazebo-basics.md",
+  "sourceDirName": "simulation/10-gazebo-basics",
+  "slug": "/simulation/gazebo-basics/gazebo-basics",
+  "permalink": "/docs/simulation/gazebo-basics/gazebo-basics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/simulation/10-gazebo-basics/gazebo-basics.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Gazebo Simulation Basics"
+  },
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "Simulation",
+    "permalink": "/docs/simulation"
+  },
+  "next": {
+    "title": "URDF Modeling",
+    "permalink": "/docs/simulation/urdf-modeling/urdf-modeling"
+  }
+}

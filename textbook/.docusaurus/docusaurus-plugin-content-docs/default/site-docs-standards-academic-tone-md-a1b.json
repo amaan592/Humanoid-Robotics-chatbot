@@ -1,0 +1,28 @@
+{
+  "id": "standards/academic-tone",
+  "title": "Academic Tone and Technical Precision Standards",
+  "description": "Overview",
+  "source": "@site/docs/standards/academic-tone.md",
+  "sourceDirName": "standards",
+  "slug": "/standards/academic-tone",
+  "permalink": "/docs/standards/academic-tone",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/standards/academic-tone.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0,
+    "title": "Academic Tone and Technical Precision Standards"
+  },
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "Standards",
+    "permalink": "/docs/standards"
+  },
+  "next": {
+    "title": "Glossary of Robotics Terminology",
+    "permalink": "/docs/standards/glossary"
+  }
+}

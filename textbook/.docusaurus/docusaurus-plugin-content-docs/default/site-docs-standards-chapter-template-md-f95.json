@@ -1,0 +1,20 @@
+{
+  "id": "standards/chapter-template",
+  "title": "Chapter Template",
+  "description": "Overview",
+  "source": "@site/docs/standards/chapter-template.md",
+  "sourceDirName": "standards",
+  "slug": "/standards/chapter-template",
+  "permalink": "/docs/standards/chapter-template",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/standards/chapter-template.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 100,
+  "frontMatter": {
+    "sidebar_position": 100,
+    "title": "Chapter Template",
+    "draft": true
+  }
+}

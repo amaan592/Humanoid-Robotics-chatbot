@@ -1,0 +1,28 @@
+{
+  "id": "standards/glossary",
+  "title": "Glossary of Robotics Terminology",
+  "description": "This glossary provides standardized definitions for key terms used throughout the Physical AI & Humanoid Robotics textbook.",
+  "source": "@site/docs/standards/glossary.md",
+  "sourceDirName": "standards",
+  "slug": "/standards/glossary",
+  "permalink": "/docs/standards/glossary",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/standards/glossary.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Glossary of Robotics Terminology"
+  },
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "Academic Tone and Technical Precision Standards",
+    "permalink": "/docs/standards/academic-tone"
+  },
+  "next": {
+    "title": "Learning Outcome Format and Measurement Criteria",
+    "permalink": "/docs/standards/learning-outcomes"
+  }
+}

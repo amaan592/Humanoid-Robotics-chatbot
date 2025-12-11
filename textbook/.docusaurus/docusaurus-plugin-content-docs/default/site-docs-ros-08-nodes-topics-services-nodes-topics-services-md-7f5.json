@@ -1,0 +1,28 @@
+{
+  "id": "ros/nodes-topics-services/nodes-topics-services",
+  "title": "Nodes, Topics, and Services",
+  "description": "Overview",
+  "source": "@site/docs/ros/08-nodes-topics-services/nodes-topics-services.md",
+  "sourceDirName": "ros/08-nodes-topics-services",
+  "slug": "/ros/nodes-topics-services/nodes-topics-services",
+  "permalink": "/docs/ros/nodes-topics-services/nodes-topics-services",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/ros/08-nodes-topics-services/nodes-topics-services.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Nodes, Topics, and Services"
+  },
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "ROS Fundamentals",
+    "permalink": "/docs/ros/ros-fundamentals/ros-fundamentals"
+  },
+  "next": {
+    "title": "ROS Ecosystem for Humanoid Robotics",
+    "permalink": "/docs/ros/ros-ecosystem/ros-ecosystem"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "standards/organization-system",
+  "title": "Section Numbering and Hierarchical Organization System",
+  "description": "Overview",
+  "source": "@site/docs/standards/organization-system.md",
+  "sourceDirName": "standards",
+  "slug": "/standards/organization-system",
+  "permalink": "/docs/standards/organization-system",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/standards/organization-system.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Section Numbering and Hierarchical Organization System"
+  },
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "Assessment Method Templates",
+    "permalink": "/docs/standards/assessment-templates"
+  },
+  "next": {
+    "title": "Cross-Reference System for Technical Components",
+    "permalink": "/docs/standards/cross-reference-system"
+  }
+}

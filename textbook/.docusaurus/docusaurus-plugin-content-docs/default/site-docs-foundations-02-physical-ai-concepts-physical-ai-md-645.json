@@ -1,0 +1,28 @@
+{
+  "id": "foundations/physical-ai-concepts/physical-ai",
+  "title": "Physical AI Concepts",
+  "description": "Overview",
+  "source": "@site/docs/foundations/02-physical-ai-concepts/physical-ai.md",
+  "sourceDirName": "foundations/02-physical-ai-concepts",
+  "slug": "/foundations/physical-ai-concepts/physical-ai",
+  "permalink": "/docs/foundations/physical-ai-concepts/physical-ai",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/foundations/02-physical-ai-concepts/physical-ai.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Physical AI Concepts"
+  },
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "Introduction to Physical AI",
+    "permalink": "/docs/foundations/introduction/intro"
+  },
+  "next": {
+    "title": "Embodied Intelligence",
+    "permalink": "/docs/foundations/embodied-intelligence/embodied-intelligence"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "embodiment/advanced-integration/advanced-integration",
+  "title": "Advanced Integration",
+  "description": "Overview",
+  "source": "@site/docs/embodiment/18-advanced-integration/advanced-integration.md",
+  "sourceDirName": "embodiment/18-advanced-integration",
+  "slug": "/embodiment/advanced-integration/advanced-integration",
+  "permalink": "/docs/embodiment/advanced-integration/advanced-integration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/embodiment/18-advanced-integration/advanced-integration.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Advanced Integration"
+  },
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "Humanoid Interaction",
+    "permalink": "/docs/embodiment/humanoid-interaction/humanoid-interaction"
+  }
+}

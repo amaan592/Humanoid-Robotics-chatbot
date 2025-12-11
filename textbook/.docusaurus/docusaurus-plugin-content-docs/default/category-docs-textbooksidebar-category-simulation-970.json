@@ -1,0 +1,16 @@
+{
+  "title": "Simulation",
+  "description": "Gazebo simulation and digital twin concepts",
+  "slug": "/simulation",
+  "permalink": "/docs/simulation",
+  "navigation": {
+    "previous": {
+      "title": "ROS Ecosystem for Humanoid Robotics",
+      "permalink": "/docs/ros/ros-ecosystem/ros-ecosystem"
+    },
+    "next": {
+      "title": "Gazebo Simulation Basics",
+      "permalink": "/docs/simulation/gazebo-basics/gazebo-basics"
+    }
+  }
+}

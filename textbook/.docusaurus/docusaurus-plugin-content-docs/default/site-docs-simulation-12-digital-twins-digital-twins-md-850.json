@@ -1,0 +1,28 @@
+{
+  "id": "simulation/digital-twins/digital-twins",
+  "title": "Digital Twins",
+  "description": "Overview",
+  "source": "@site/docs/simulation/12-digital-twins/digital-twins.md",
+  "sourceDirName": "simulation/12-digital-twins",
+  "slug": "/simulation/digital-twins/digital-twins",
+  "permalink": "/docs/simulation/digital-twins/digital-twins",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/simulation/12-digital-twins/digital-twins.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Digital Twins"
+  },
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "URDF Modeling",
+    "permalink": "/docs/simulation/urdf-modeling/urdf-modeling"
+  },
+  "next": {
+    "title": "Locomotion",
+    "permalink": "/docs/locomotion"
+  }
+}

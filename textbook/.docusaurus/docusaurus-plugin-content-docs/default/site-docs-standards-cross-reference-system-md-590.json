@@ -1,0 +1,28 @@
+{
+  "id": "standards/cross-reference-system",
+  "title": "Cross-Reference System for Technical Components",
+  "description": "Overview",
+  "source": "@site/docs/standards/cross-reference-system.md",
+  "sourceDirName": "standards",
+  "slug": "/standards/cross-reference-system",
+  "permalink": "/docs/standards/cross-reference-system",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/standards/cross-reference-system.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "title": "Cross-Reference System for Technical Components"
+  },
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "Section Numbering and Hierarchical Organization System",
+    "permalink": "/docs/standards/organization-system"
+  },
+  "next": {
+    "title": "Content Review and Approval Workflow",
+    "permalink": "/docs/standards/review-workflow"
+  }
+}

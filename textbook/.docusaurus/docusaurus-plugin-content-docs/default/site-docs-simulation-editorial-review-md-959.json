@@ -1,0 +1,19 @@
+{
+  "id": "simulation/editorial-review",
+  "title": "Editorial Review for Simulation Chapters",
+  "description": "Overview",
+  "source": "@site/docs/simulation/editorial-review.md",
+  "sourceDirName": "simulation",
+  "slug": "/simulation/editorial-review",
+  "permalink": "/docs/simulation/editorial-review",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/simulation/editorial-review.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8,
+    "title": "Editorial Review for Simulation Chapters"
+  }
+}

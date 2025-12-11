@@ -1,0 +1,28 @@
+{
+  "id": "locomotion/locomotion-systems/locomotion-systems",
+  "title": "Locomotion Systems for Humanoid Robotics",
+  "description": "Overview",
+  "source": "@site/docs/locomotion/13-locomotion-systems/locomotion-systems.md",
+  "sourceDirName": "locomotion/13-locomotion-systems",
+  "slug": "/locomotion/locomotion-systems/locomotion-systems",
+  "permalink": "/docs/locomotion/locomotion-systems/locomotion-systems",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/locomotion/13-locomotion-systems/locomotion-systems.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Locomotion Systems for Humanoid Robotics"
+  },
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "Locomotion",
+    "permalink": "/docs/locomotion"
+  },
+  "next": {
+    "title": "Movement Control for Humanoid Robotics",
+    "permalink": "/docs/locomotion/movement-control/movement-control"
+  }
+}

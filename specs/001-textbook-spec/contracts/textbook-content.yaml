@@ -1,0 +1,90 @@
+# Textbook Content Structure Contract
+
+## Overview
+This contract defines the structure and organization of the Physical AI & Humanoid Robotics textbook content within the Docusaurus documentation framework.
+
+## Content Access Patterns
+
+### Chapter Access Endpoint
+```
+GET /textbook/{part}/{chapter-number}
+```
+- **Description**: Access a specific chapter by part and chapter number
+- **Path Parameters**:
+  - `part`: String (e.g., "foundations", "simulation", "control", "embodiment", "autonomy")
+  - `chapter-number`: Integer (1-13 for 13-week curriculum)
+- **Response**: Chapter content with learning outcomes and technical focus
+- **Example**: `GET /textbook/foundations/1` for the first chapter in Foundations
+
+### Section Access Endpoint
+```
+GET /textbook/{part}/{chapter-number}/{section-number}
+```
+- **Description**: Access a specific section within a chapter
+- **Path Parameters**:
+  - `part`: String (e.g., "foundations", "simulation", "control", "embodiment", "autonomy")
+  - `chapter-number`: Integer (1-13)
+  - `section-number`: String (e.g., "1", "2.1", "2.1.3")
+- **Response**: Section content with hierarchical organization
+- **Example**: `GET /textbook/simulation/7/2.1` for section 2.1 of chapter 7 in Simulation
+
+### Technical Component Reference Endpoint
+```
+GET /textbook/technology/{component-name}
+```
+- **Description**: Access documentation for a specific technical component
+- **Path Parameters**:
+  - `component-name`: String (e.g., "ros2", "gazebo", "nvidia-isaac", "sensors", "locomotion")
+- **Response**: Comprehensive guide to the technical component with examples
+- **Example**: `GET /textbook/technology/ros2` for ROS 2 documentation
+
+## Content Organization Schema
+
+### Chapter Schema
+```json
+{
+  "id": "string",
+  "title": "string",
+  "part": "string",
+  "number": "integer",
+  "duration": "integer (weeks)",
+  "learningOutcomes": ["string"],
+  "prerequisites": ["string"],
+  "technicalFocus": ["string"],
+  "sections": [
+    {
+      "title": "string",
+      "number": "string",
+      "contentType": "string (theory|practical|code_example|exercise)",
+      "subsections": ["...nested sections"],
+      "technicalRequirements": ["string"]
+    }
+  ]
+}
+```
+
+### Content Validation Rules
+- All content must maintain academically formal and technically precise language
+- Chapters must follow progressive flow: Foundations → Simulation → Control → Embodiment → Autonomy
+- Technical components must be from approved list: ROS 2, Gazebo, NVIDIA Isaac, sensors, locomotion, perception, humanoid interaction
+- Content must exclude toy robotics, chatbots, personalization, authentication systems, and RAG integrations
+
+## Navigation Contract
+
+### Sidebar Structure
+- Part-level navigation at top level
+- Chapter-level navigation as second level
+- Section-level navigation as third level
+- Consistent hierarchical organization throughout
+
+### Cross-Reference Contract
+- All technical components referenced consistently across chapters
+- Prerequisites clearly identified and linked
+- Progressive skill building from one chapter to the next
+- Simulation-to-real alignment maintained throughout
+
+## Content Quality Standards
+- All content must meet graduate-level engineering documentation standards
+- Technical accuracy verified through domain expertise
+- Consistent terminology and notation throughout
+- Clear learning outcomes and assessment criteria

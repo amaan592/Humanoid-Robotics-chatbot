@@ -1,0 +1,19 @@
+{
+  "id": "simulation/final-approval",
+  "title": "Final Publish Approval for Simulation Chapters",
+  "description": "Overview",
+  "source": "@site/docs/simulation/final-approval.md",
+  "sourceDirName": "simulation",
+  "slug": "/simulation/final-approval",
+  "permalink": "/docs/simulation/final-approval",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/simulation/final-approval.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9,
+    "title": "Final Publish Approval for Simulation Chapters"
+  }
+}

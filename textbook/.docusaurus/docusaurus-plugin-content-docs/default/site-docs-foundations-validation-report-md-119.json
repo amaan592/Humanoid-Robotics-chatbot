@@ -1,0 +1,19 @@
+{
+  "id": "foundations/validation-report",
+  "title": "Technical Validation Report - Foundations",
+  "description": "Overview",
+  "source": "@site/docs/foundations/validation-report.md",
+  "sourceDirName": "foundations",
+  "slug": "/foundations/validation-report",
+  "permalink": "/docs/foundations/validation-report",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/foundations/validation-report.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0,
+    "title": "Technical Validation Report - Foundations"
+  }
+}

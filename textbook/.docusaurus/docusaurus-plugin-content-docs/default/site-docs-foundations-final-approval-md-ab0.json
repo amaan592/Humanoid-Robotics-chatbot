@@ -1,0 +1,19 @@
+{
+  "id": "foundations/final-approval",
+  "title": "Final Approval - Foundations",
+  "description": "Overview",
+  "source": "@site/docs/foundations/final-approval.md",
+  "sourceDirName": "foundations",
+  "slug": "/foundations/final-approval",
+  "permalink": "/docs/foundations/final-approval",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/foundations/final-approval.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0,
+    "title": "Final Approval - Foundations"
+  }
+}

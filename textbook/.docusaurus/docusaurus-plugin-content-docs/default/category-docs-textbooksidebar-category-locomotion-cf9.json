@@ -1,0 +1,16 @@
+{
+  "title": "Locomotion",
+  "description": "Movement control and kinematics for humanoid robots",
+  "slug": "/locomotion",
+  "permalink": "/docs/locomotion",
+  "navigation": {
+    "previous": {
+      "title": "Digital Twins",
+      "permalink": "/docs/simulation/digital-twins/digital-twins"
+    },
+    "next": {
+      "title": "Locomotion Systems for Humanoid Robotics",
+      "permalink": "/docs/locomotion/locomotion-systems/locomotion-systems"
+    }
+  }
+}

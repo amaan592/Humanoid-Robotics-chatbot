@@ -1,0 +1,28 @@
+{
+  "id": "sensors/perception-integration/perception-integration",
+  "title": "Perception Integration",
+  "description": "Overview",
+  "source": "@site/docs/sensors/05-perception-integration/perception-integration.md",
+  "sourceDirName": "sensors/05-perception-integration",
+  "slug": "/sensors/perception-integration/perception-integration",
+  "permalink": "/docs/sensors/perception-integration/perception-integration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/sensors/05-perception-integration/perception-integration.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Perception Integration"
+  },
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "Sensor Systems",
+    "permalink": "/docs/sensors/sensor-systems/sensor-systems"
+  },
+  "next": {
+    "title": "Sensor Fusion",
+    "permalink": "/docs/sensors/sensor-fusion/sensor-fusion"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "embodiment/humanoid-interaction/humanoid-interaction",
+  "title": "Humanoid Interaction",
+  "description": "Overview",
+  "source": "@site/docs/embodiment/17-humanoid-interaction/humanoid-interaction.md",
+  "sourceDirName": "embodiment/17-humanoid-interaction",
+  "slug": "/embodiment/humanoid-interaction/humanoid-interaction",
+  "permalink": "/docs/embodiment/humanoid-interaction/humanoid-interaction",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/embodiment/17-humanoid-interaction/humanoid-interaction.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Humanoid Interaction"
+  },
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "Autonomous Control Systems for Humanoid Robotics",
+    "permalink": "/docs/embodiment/autonomous-control/autonomous-control"
+  },
+  "next": {
+    "title": "Advanced Integration",
+    "permalink": "/docs/embodiment/advanced-integration/advanced-integration"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Embodiment",
+  "description": "Autonomous control and advanced integration",
+  "slug": "/embodiment",
+  "permalink": "/docs/embodiment",
+  "navigation": {
+    "previous": {
+      "title": "Kinematics and Dynamics for Humanoid Robotics",
+      "permalink": "/docs/locomotion/kinematics-dynamics/kinematics-dynamics"
+    },
+    "next": {
+      "title": "Autonomous Control Systems for Humanoid Robotics",
+      "permalink": "/docs/embodiment/autonomous-control/autonomous-control"
+    }
+  }
+}

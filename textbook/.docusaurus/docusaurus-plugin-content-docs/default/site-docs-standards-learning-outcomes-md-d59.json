@@ -1,0 +1,28 @@
+{
+  "id": "standards/learning-outcomes",
+  "title": "Learning Outcome Format and Measurement Criteria",
+  "description": "Overview",
+  "source": "@site/docs/standards/learning-outcomes.md",
+  "sourceDirName": "standards",
+  "slug": "/standards/learning-outcomes",
+  "permalink": "/docs/standards/learning-outcomes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/standards/learning-outcomes.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Learning Outcome Format and Measurement Criteria"
+  },
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "Glossary of Robotics Terminology",
+    "permalink": "/docs/standards/glossary"
+  },
+  "next": {
+    "title": "Assessment Method Templates",
+    "permalink": "/docs/standards/assessment-templates"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "simulation/gazebo-physics-validation",
+  "title": "Gazebo Physics Validation",
+  "description": "Overview",
+  "source": "@site/docs/simulation/gazebo-physics-validation.md",
+  "sourceDirName": "simulation",
+  "slug": "/simulation/gazebo-physics-validation",
+  "permalink": "/docs/simulation/gazebo-physics-validation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/simulation/gazebo-physics-validation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Gazebo Physics Validation"
+  }
+}

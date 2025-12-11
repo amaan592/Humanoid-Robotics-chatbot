@@ -1,0 +1,19 @@
+{
+  "id": "simulation/simulation-accuracy-validation",
+  "title": "Simulation Accuracy Validation",
+  "description": "Overview",
+  "source": "@site/docs/simulation/simulation-accuracy-validation.md",
+  "sourceDirName": "simulation",
+  "slug": "/simulation/simulation-accuracy-validation",
+  "permalink": "/docs/simulation/simulation-accuracy-validation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/simulation/simulation-accuracy-validation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7,
+    "title": "Simulation Accuracy Validation"
+  }
+}

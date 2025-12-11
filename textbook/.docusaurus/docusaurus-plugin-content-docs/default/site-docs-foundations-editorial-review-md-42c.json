@@ -1,0 +1,19 @@
+{
+  "id": "foundations/editorial-review",
+  "title": "Editorial Review - Foundations",
+  "description": "Overview",
+  "source": "@site/docs/foundations/editorial-review.md",
+  "sourceDirName": "foundations",
+  "slug": "/foundations/editorial-review",
+  "permalink": "/docs/foundations/editorial-review",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/foundations/editorial-review.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0,
+    "title": "Editorial Review - Foundations"
+  }
+}

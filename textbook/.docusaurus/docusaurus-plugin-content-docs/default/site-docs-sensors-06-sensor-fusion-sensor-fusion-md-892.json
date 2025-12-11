@@ -1,0 +1,28 @@
+{
+  "id": "sensors/sensor-fusion/sensor-fusion",
+  "title": "Sensor Fusion",
+  "description": "Overview",
+  "source": "@site/docs/sensors/06-sensor-fusion/sensor-fusion.md",
+  "sourceDirName": "sensors/06-sensor-fusion",
+  "slug": "/sensors/sensor-fusion/sensor-fusion",
+  "permalink": "/docs/sensors/sensor-fusion/sensor-fusion",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/sensors/06-sensor-fusion/sensor-fusion.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Sensor Fusion"
+  },
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "Perception Integration",
+    "permalink": "/docs/sensors/perception-integration/perception-integration"
+  },
+  "next": {
+    "title": "ROS",
+    "permalink": "/docs/ros"
+  }
+}

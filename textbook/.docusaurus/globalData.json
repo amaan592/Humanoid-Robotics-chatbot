@@ -1,0 +1,241 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "standards/academic-tone",
+          "docs": [
+            {
+              "id": "embodiment/advanced-integration/advanced-integration",
+              "path": "/docs/embodiment/advanced-integration/advanced-integration",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "embodiment/autonomous-control/autonomous-control",
+              "path": "/docs/embodiment/autonomous-control/autonomous-control",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "embodiment/humanoid-interaction/humanoid-interaction",
+              "path": "/docs/embodiment/humanoid-interaction/humanoid-interaction",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "foundations/editorial-review",
+              "path": "/docs/foundations/editorial-review"
+            },
+            {
+              "id": "foundations/embodied-intelligence/embodied-intelligence",
+              "path": "/docs/foundations/embodied-intelligence/embodied-intelligence",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "foundations/final-approval",
+              "path": "/docs/foundations/final-approval"
+            },
+            {
+              "id": "foundations/introduction/intro",
+              "path": "/docs/foundations/introduction/intro",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "foundations/physical-ai-concepts/physical-ai",
+              "path": "/docs/foundations/physical-ai-concepts/physical-ai",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "foundations/project-completion-summary",
+              "path": "/docs/foundations/project-completion-summary"
+            },
+            {
+              "id": "foundations/validation-report",
+              "path": "/docs/foundations/validation-report"
+            },
+            {
+              "id": "locomotion/kinematics-dynamics/kinematics-dynamics",
+              "path": "/docs/locomotion/kinematics-dynamics/kinematics-dynamics",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "locomotion/locomotion-systems/locomotion-systems",
+              "path": "/docs/locomotion/locomotion-systems/locomotion-systems",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "locomotion/movement-control/movement-control",
+              "path": "/docs/locomotion/movement-control/movement-control",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "ros/nodes-topics-services/nodes-topics-services",
+              "path": "/docs/ros/nodes-topics-services/nodes-topics-services",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "ros/ros-ecosystem/ros-ecosystem",
+              "path": "/docs/ros/ros-ecosystem/ros-ecosystem",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "ros/ros-fundamentals/ros-fundamentals",
+              "path": "/docs/ros/ros-fundamentals/ros-fundamentals",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "sensors/perception-integration/perception-integration",
+              "path": "/docs/sensors/perception-integration/perception-integration",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "sensors/sensor-fusion/sensor-fusion",
+              "path": "/docs/sensors/sensor-fusion/sensor-fusion",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "sensors/sensor-systems/sensor-systems",
+              "path": "/docs/sensors/sensor-systems/sensor-systems",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "simulation/digital-twin-validation",
+              "path": "/docs/simulation/digital-twin-validation"
+            },
+            {
+              "id": "simulation/digital-twins/digital-twins",
+              "path": "/docs/simulation/digital-twins/digital-twins",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "simulation/editorial-review",
+              "path": "/docs/simulation/editorial-review"
+            },
+            {
+              "id": "simulation/final-approval",
+              "path": "/docs/simulation/final-approval"
+            },
+            {
+              "id": "simulation/gazebo-basics/gazebo-basics",
+              "path": "/docs/simulation/gazebo-basics/gazebo-basics",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "simulation/gazebo-physics-validation",
+              "path": "/docs/simulation/gazebo-physics-validation"
+            },
+            {
+              "id": "simulation/isaac-perception",
+              "path": "/docs/simulation/isaac-perception"
+            },
+            {
+              "id": "simulation/simulation-accuracy-validation",
+              "path": "/docs/simulation/simulation-accuracy-validation"
+            },
+            {
+              "id": "simulation/textbook-validation-report",
+              "path": "/docs/simulation/textbook-validation-report"
+            },
+            {
+              "id": "simulation/urdf-modeling/urdf-modeling",
+              "path": "/docs/simulation/urdf-modeling/urdf-modeling",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "standards/academic-tone",
+              "path": "/docs/standards/academic-tone",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "standards/assessment-templates",
+              "path": "/docs/standards/assessment-templates",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "standards/chapter-template",
+              "path": "/docs/standards/chapter-template"
+            },
+            {
+              "id": "standards/cross-reference-system",
+              "path": "/docs/standards/cross-reference-system",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "standards/glossary",
+              "path": "/docs/standards/glossary",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "standards/learning-outcomes",
+              "path": "/docs/standards/learning-outcomes",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "standards/organization-system",
+              "path": "/docs/standards/organization-system",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "standards/review-workflow",
+              "path": "/docs/standards/review-workflow",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "standards/validation-framework",
+              "path": "/docs/standards/validation-framework",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "/standards",
+              "path": "/docs/standards",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "/foundations",
+              "path": "/docs/foundations",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "/sensors",
+              "path": "/docs/sensors",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "/ros",
+              "path": "/docs/ros",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "/simulation",
+              "path": "/docs/simulation",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "/locomotion",
+              "path": "/docs/locomotion",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "/embodiment",
+              "path": "/docs/embodiment",
+              "sidebar": "textbookSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "textbookSidebar": {
+              "link": {
+                "path": "/docs/standards",
+                "label": "Standards"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "foundations/introduction/intro",
+  "title": "Introduction to Physical AI",
+  "description": "Overview",
+  "source": "@site/docs/foundations/01-introduction/intro.md",
+  "sourceDirName": "foundations/01-introduction",
+  "slug": "/foundations/introduction/intro",
+  "permalink": "/docs/foundations/introduction/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/foundations/01-introduction/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Introduction to Physical AI"
+  },
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "Foundations",
+    "permalink": "/docs/foundations"
+  },
+  "next": {
+    "title": "Physical AI Concepts",
+    "permalink": "/docs/foundations/physical-ai-concepts/physical-ai"
+  }
+}

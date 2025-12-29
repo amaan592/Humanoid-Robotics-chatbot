@@ -14,7 +14,8 @@ const sidebars = {
         'standards/organization-system',
         'standards/cross-reference-system',
         'standards/review-workflow',
-        'standards/validation-framework'
+        'standards/validation-framework',
+        'standards/chatbot-integration'
       ],
       link: {
         type: 'generated-index',

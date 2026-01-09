@@ -1,0 +1,125 @@
+/* Floating chatbot icon */
+.floating-chatbot-icon {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  border: none;
+  background-color: var(--ifm-color-primary);
+  color: white;
+  cursor: pointer;
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  transition: all 0.3s ease;
+  font-size: 24px;
+}
+
+.floating-chatbot-icon:hover {
+  transform: scale(1.05);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.2);
+}
+
+.floating-chatbot-icon.dark {
+  background-color: var(--ifm-color-primary);
+}
+
+/* Floating chatbot overlay */
+.floating-chatbot-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 1001;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+/* Floating chatbot container */
+.floating-chatbot-container {
+  width: 100%;
+  max-width: 450px;
+  height: 600px;
+  max-height: 90vh;
+  background-color: var(--ifm-background-color);
+  border-radius: 12px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+}
+
+.floating-chatbot-container.dark {
+  background-color: var(--ifm-background-color);
+}
+
+/* Chatbot header */
+.floating-chatbot-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px 20px;
+  background-color: var(--ifm-color-primary);
+  color: white;
+}
+
+.floating-chatbot-header h3 {
+  margin: 0;
+  font-size: 1.1rem;
+}
+
+.close-button {
+  background: none;
+  border: none;
+  color: white;
+  font-size: 24px;
+  cursor: pointer;
+  padding: 0;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+}
+
+.close-button:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+/* Chatbot wrapper */
+.chatbot-wrapper {
+  flex: 1;
+  overflow: hidden;
+}
+
+.chatbot-wrapper > div {
+  height: 100%;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .floating-chatbot-icon {
+    width: 50px;
+    height: 50px;
+    bottom: 15px;
+    right: 15px;
+  }
+
+  .floating-chatbot-overlay {
+    padding: 10px;
+  }
+
+  .floating-chatbot-container {
+    max-width: 100%;
+    height: 80vh;
+  }
+}

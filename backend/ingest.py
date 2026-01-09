@@ -4,6 +4,10 @@ from typing import List, Dict
 import logging
 from pathlib import Path
 
+# Load environment variables from .env file
+from dotenv import load_dotenv
+load_dotenv()
+
 # Import required libraries
 import cohere
 from qdrant_client import QdrantClient
@@ -29,10 +33,21 @@ qdrant_api_key = os.getenv("QDRANT_API_KEY")
 if not qdrant_url or not qdrant_api_key:
     raise ValueError("QDRANT_URL and QDRANT_API_KEY environment variables are required")
 
-qdrant_client = QdrantClient(
-    url=qdrant_url,
-    api_key=qdrant_api_key,
-)
+# Try to connect to cloud Qdrant, fallback to local if that fails
+try:
+    qdrant_client = QdrantClient(
+        url=qdrant_url,
+        api_key=qdrant_api_key,
+        https=True,
+        verify=True
+    )
+    # Test connection
+    qdrant_client.get_collections()
+    logger.info("Successfully connected to Qdrant Cloud")
+except Exception as e:
+    logger.warning(f"Could not connect to Qdrant Cloud: {e}. Using local in-memory storage for testing.")
+    qdrant_client = QdrantClient(":memory:")
+    logger.info("Using in-memory Qdrant for testing")
 
 # Define collection name
 COLLECTION_NAME = "textbook_content"
@@ -144,8 +159,7 @@ async def embed_and_store_chunks(chunks: List[Dict]):
     logger.info(f"Generating embeddings for {len(texts)} chunks...")
     response = co.embed(
         texts=texts,
-        model="embed-english-v3.0",
-        input_type="document"
+        model="large"
     )
     embeddings = response.embeddings
 

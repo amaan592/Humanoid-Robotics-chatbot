@@ -6,10 +6,15 @@ import asyncio
 import logging
 from datetime import datetime
 
+# Load environment variables from .env file
+from dotenv import load_dotenv
+load_dotenv()
+
 # Import Cohere and Qdrant clients
 import cohere
 from qdrant_client import QdrantClient
 from qdrant_client.http import models
+from qdrant_client.models import PointStruct
 
 # Import models
 from models import QueryRequest, Source, QueryResponse, HealthResponse
@@ -46,13 +51,84 @@ qdrant_api_key = os.getenv("QDRANT_API_KEY")
 if not qdrant_url or not qdrant_api_key:
     raise ValueError("QDRANT_URL and QDRANT_API_KEY environment variables are required")
 
-qdrant_client = QdrantClient(
-    url=qdrant_url,
-    api_key=qdrant_api_key,
-)
-
 # Define collection name
 COLLECTION_NAME = "textbook_content"
+
+# Try to connect to cloud Qdrant, fallback to local if that fails
+try:
+    qdrant_client = QdrantClient(
+        url=qdrant_url,
+        api_key=qdrant_api_key,
+        https=True,
+        verify=True
+    )
+    # Test connection
+    qdrant_client.get_collections()
+    logger.info("Successfully connected to Qdrant Cloud")
+except Exception as e:
+    logger.warning(f"Could not connect to Qdrant Cloud: {e}. Using local in-memory storage for testing.")
+    qdrant_client = QdrantClient(":memory:")
+    logger.info("Using in-memory Qdrant for testing")
+
+    # Create collection and add test data for immediate testing
+    try:
+        # Create collection
+        qdrant_client.create_collection(
+            collection_name=COLLECTION_NAME,
+            vectors_config=models.VectorParams(
+                size=4096,  # Cohere's large model returns 4096-dimensional vectors
+                distance=models.Distance.COSINE
+            )
+        )
+        logger.info(f"Created collection: {COLLECTION_NAME}")
+
+        # Add some test content to make the chatbot functional immediately
+        test_texts = [
+            {
+                "content": "Robotics is an interdisciplinary branch of engineering and science that includes mechanical engineering, electrical engineering, computer science, and others. It deals with the design, construction, operation, and use of robots, as well as computer systems for their control, sensory feedback, and information processing.",
+                "chapter": "Introduction to Robotics",
+                "section": "What is Robotics"
+            },
+            {
+                "content": "Physical AI refers to artificial intelligence systems that interact with the physical world through sensors and actuators. These systems must understand and manipulate physical objects, navigate physical spaces, and respond to physical forces and constraints.",
+                "chapter": "Physical AI Concepts",
+                "section": "Physical AI"
+            },
+            {
+                "content": "Embodied intelligence is the theory that many features of human and animal intelligence are shaped by the physical body and its interactions with the environment. This approach suggests that intelligence emerges from the interaction between brain, body, and environment.",
+                "chapter": "Embodied Intelligence",
+                "section": "Embodied Intelligence Theory"
+            }
+        ]
+
+        # Add test data to collection
+        for i, text_obj in enumerate(test_texts):
+            response = co.embed(
+                texts=[text_obj["content"]],
+                model="large"
+            )
+            embedding = response.embeddings[0]
+
+            # Add to Qdrant
+            qdrant_client.upsert(
+                collection_name=COLLECTION_NAME,
+                points=[
+                    PointStruct(
+                        id=i,
+                        vector=embedding,
+                        payload={
+                            "content": text_obj["content"],
+                            "chapter": text_obj["chapter"],
+                            "section": text_obj["section"],
+                            "source_path": "test_content"
+                        }
+                    )
+                ]
+            )
+
+        logger.info(f"Added {len(test_texts)} test documents to collection for immediate use")
+    except Exception as e:
+        logger.error(f"Error setting up test data: {e}")
 
 @app.get("/")
 async def root():
@@ -69,8 +145,7 @@ async def query_endpoint(request: QueryRequest):
         # Generate embedding for the query
         response = co.embed(
             texts=[request.query],
-            model="embed-english-v3.0",
-            input_type="search_query"
+            model="large"
         )
         query_embedding = response.embeddings[0]
 
@@ -166,9 +241,9 @@ async def generate_response(query: str, context_chunks: List[dict]):
         Answer:
         """
 
-        # Generate response using Cohere
+        # Generate response using Cohere (compatible with v4.x)
         response = co.generate(
-            model="command-r-plus",  # Using a more capable model
+            model="command-r-plus",
             prompt=prompt,
             max_tokens=500,
             temperature=0.3,

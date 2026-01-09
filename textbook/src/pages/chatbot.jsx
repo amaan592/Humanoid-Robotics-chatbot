@@ -15,7 +15,7 @@ export default function ChatbotPage() {
             </p>
             
             <div style={{ height: '600px', marginTop: '20px' }}>
-              <Chatbot apiEndpoint="http://localhost:8000/api/query" />
+              <Chatbot apiEndpoint={process.env.REACT_APP_API_ENDPOINT || '/api/query'} />
             </div>
           </div>
         </div>

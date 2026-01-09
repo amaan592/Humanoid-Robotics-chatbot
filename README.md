@@ -20,6 +20,7 @@ This repository contains the source code for the "Physical AI & Humanoid Robotic
 
 - **Interactive Textbook**: Modern Docusaurus-based textbook interface
 - **AI-Powered Chatbot**: Ask questions about textbook content and get accurate answers
+- **Floating Chatbot Interface**: Chatbot icon appears at the bottom of every page for easy access
 - **Selected Text Queries**: Ask questions about specific text you've highlighted
 - **Source Attribution**: All answers include references to textbook chapters and sections
 - **Confidence Scoring**: Responses include confidence levels for reliability
@@ -179,10 +180,11 @@ This will process all markdown files in the textbook docs directory, chunk them 
 
 ## 💻 Chatbot Integration
 
-The chatbot is integrated in two ways:
+The chatbot is integrated in three ways:
 
-1. **Dedicated Chatbot Page**: Available at `/chatbot` route
-2. **Inline Component**: Can be embedded in any page using the Chatbot React component
+1. **Floating Chatbot Icon**: Appears at the bottom right of every page for instant access
+2. **Dedicated Chatbot Page**: Available at `/chatbot` route
+3. **Inline Component**: Can be embedded in any page using the Chatbot React component
 
 To embed the chatbot in a page, use:
 ```jsx

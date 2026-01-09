@@ -68,6 +68,13 @@
             "href": "/docs/standards/validation-framework",
             "docId": "standards/validation-framework",
             "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Chatbot Integration",
+            "href": "/docs/standards/chatbot-integration",
+            "docId": "standards/chatbot-integration",
+            "unlisted": false
           }
         ],
         "collapsed": true,
@@ -436,6 +443,12 @@
       "id": "standards/chapter-template",
       "title": "Chapter Template",
       "description": "Overview"
+    },
+    "standards/chatbot-integration": {
+      "id": "standards/chatbot-integration",
+      "title": "Chatbot Integration",
+      "description": "This document describes how the RAG (Retrieval-Augmented Generation) chatbot is integrated into the textbook.",
+      "sidebar": "textbookSidebar"
     },
     "standards/cross-reference-system": {
       "id": "standards/cross-reference-system",

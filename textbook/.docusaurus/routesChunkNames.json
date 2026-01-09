@@ -42,17 +42,24 @@
       "plugin": "plugin---docusaurus-debug-596-2f5"
     }
   },
-  "/docs-588": {
+  "/chatbot-c91": {
+    "__comp": "__comp---site-src-pages-chatbot-jsxe-3-e-7d2",
+    "__context": {
+      "plugin": "plugin---chatbotf-5-f-c53"
+    },
+    "config": "config---chatbot-5-e-9-77b"
+  },
+  "/docs-e37": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsb-90-445"
     }
   },
-  "/docs-101": {
+  "/docs-24e": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "version": "version---docs-935-398"
   },
-  "/docs-1c7": {
+  "/docs-0e6": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/embodiment-b52": {
@@ -211,6 +218,10 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-standards-chapter-templatef-95-1d4"
   },
+  "/docs/standards/chatbot-integration-40f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-standards-chatbot-integrationde-9-4a5"
+  },
   "/docs/standards/cross-reference-system-cfa": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-standards-cross-reference-system-590-3e8"
@@ -238,8 +249,8 @@
   "/-11f": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
     "__context": {
-      "plugin": "plugin---f-5-f-fdc"
+      "plugin": "plugin---chatbotf-5-f-c53"
     },
-    "config": "config---5-e-9-4f3"
+    "config": "config---chatbot-5-e-9-77b"
   }
 }

@@ -38,16 +38,21 @@ export default [
     exact: true
   },
   {
+    path: '/chatbot',
+    component: ComponentCreator('/chatbot', 'c91'),
+    exact: true
+  },
+  {
     path: '/docs',
-    component: ComponentCreator('/docs', '588'),
+    component: ComponentCreator('/docs', 'e37'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '101'),
+        component: ComponentCreator('/docs', '24e'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '1c7'),
+            component: ComponentCreator('/docs', '0e6'),
             routes: [
               {
                 path: '/docs/embodiment',
@@ -270,6 +275,12 @@ export default [
                 path: '/docs/standards/chapter-template',
                 component: ComponentCreator('/docs/standards/chapter-template', 'b42'),
                 exact: true
+              },
+              {
+                path: '/docs/standards/chatbot-integration',
+                component: ComponentCreator('/docs/standards/chatbot-integration', '40f'),
+                exact: true,
+                sidebar: "textbookSidebar"
               },
               {
                 path: '/docs/standards/cross-reference-system',

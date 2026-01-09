@@ -38,7 +38,8 @@
       "Bash(dir backend.env)",
       "Bash(git add .)",
       "Bash(dir)",
-      "Bash(git add .claude/settings.local.json .specify/memory/constitution.md backend/add_test_data.py backend/ingest.py backend/main.py backend/main_test.py test_content.md test_docs/test_content.md textbook/docusaurus.config.js textbook/src/components/FloatingChatbot/ textbook/src/components/Root/ textbook/src/pages/chatbot.jsx)"
+      "Bash(git add .claude/settings.local.json .specify/memory/constitution.md backend/add_test_data.py backend/ingest.py backend/main.py backend/main_test.py test_content.md test_docs/test_content.md textbook/docusaurus.config.js textbook/src/components/FloatingChatbot/ textbook/src/components/Root/ textbook/src/pages/chatbot.jsx)",
+      "Bash(git commit -m \"$\\(cat <<''EOF''\nfeat: Add floating chatbot to textbook interface\n\n- Implement floating chatbot component that appears as an icon at the bottom of every page\n- Create FloatingChatbot component with proper styling and functionality\n- Integrate chatbot into the Docusaurus application using Root component\n- Update docusaurus.config.js to include the floating chatbot\n- Ensure chatbot connects to backend API properly\n- Add proper error handling and responsive design\n\nCo-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>\nEOF\n\\)\")"
     ]
   }
 }

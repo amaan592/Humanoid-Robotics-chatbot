@@ -805,6 +805,32 @@
               }
             },
             {
+              "id": "standards/chatbot-integration",
+              "title": "Chatbot Integration",
+              "description": "This document describes how the RAG (Retrieval-Augmented Generation) chatbot is integrated into the textbook.",
+              "source": "@site/docs/standards/chatbot-integration.md",
+              "sourceDirName": "standards",
+              "slug": "/standards/chatbot-integration",
+              "permalink": "/docs/standards/chatbot-integration",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics-textbook/edit/main/docs/standards/chatbot-integration.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Chatbot Integration"
+              },
+              "sidebar": "textbookSidebar",
+              "previous": {
+                "title": "Content Validation Framework for Technical Accuracy",
+                "permalink": "/docs/standards/validation-framework"
+              },
+              "next": {
+                "title": "Foundations",
+                "permalink": "/docs/foundations"
+              }
+            },
+            {
               "id": "standards/cross-reference-system",
               "title": "Cross-Reference System for Technical Components",
               "description": "Overview",
@@ -968,8 +994,8 @@
                 "permalink": "/docs/standards/review-workflow"
               },
               "next": {
-                "title": "Foundations",
-                "permalink": "/docs/foundations"
+                "title": "Chatbot Integration",
+                "permalink": "/docs/standards/chatbot-integration"
               }
             }
           ],
@@ -1011,6 +1037,10 @@
                   {
                     "type": "doc",
                     "id": "standards/validation-framework"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "standards/chatbot-integration"
                   }
                 ],
                 "link": {
@@ -1193,6 +1223,11 @@
   },
   "docusaurus-plugin-content-pages": {
     "default": [
+      {
+        "type": "jsx",
+        "permalink": "/chatbot",
+        "source": "@site/src/pages/chatbot.jsx"
+      },
       {
         "type": "jsx",
         "permalink": "/",

@@ -159,6 +159,11 @@
               "path": "/docs/standards/chapter-template"
             },
             {
+              "id": "standards/chatbot-integration",
+              "path": "/docs/standards/chatbot-integration",
+              "sidebar": "textbookSidebar"
+            },
+            {
               "id": "standards/cross-reference-system",
               "path": "/docs/standards/cross-reference-system",
               "sidebar": "textbookSidebar"

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "public": false,
+  "builds": [
+    {
+      "src": "textbook/package.json",
+      "use": "@vercel/static-build",
+      "config": {
+        "distDir": "build"
+      }
+    }
+  ],
+  "github": {
+    "silent": true
+  }
+}

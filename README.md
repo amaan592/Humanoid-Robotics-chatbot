@@ -195,12 +195,21 @@ import Chatbot from '@site/src/components/Chatbot';
 
 ## 🚀 Deployment
 
-### Frontend Deployment
+The application consists of two parts that need to be deployed separately:
+1. **Frontend**: The Docusaurus textbook with chatbot interface
+2. **Backend**: The FastAPI server that handles chatbot queries
+
+### Frontend Deployment (Textbook with Chatbot)
 
 The Docusaurus site can be deployed to various platforms:
 
 - **GitHub Pages**: Use `npm run deploy`
-- **Vercel**: Connect your GitHub repository
+- **Vercel**:
+  1. Install Vercel CLI: `npm install -g vercel`
+  2. Login: `vercel login`
+  3. Navigate to the textbook directory: `cd textbook`
+  4. Deploy: `vercel`
+  5. During setup, set environment variable: `REACT_APP_API_ENDPOINT=https://your-backend-deployment-url/api/query`
 - **Netlify**: Connect your GitHub repository
 - **AWS S3/CloudFront**: Build and upload static files
 
